@@ -253,7 +253,15 @@ RULES:
         max_tokens=4096,
         messages=[{"role": "user", "content": prompt}]
     )
-    return message.content[0].text
+    text = message.content[0].text.strip()
+    # Strip markdown code fence if Haiku wrapped the output
+    if text.startswith("```"):
+        lines = text.split('\n')
+        lines = lines[1:]  # remove opening fence
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]  # remove closing fence
+        text = '\n'.join(lines)
+    return text
 
 
 def parse_frontmatter(md: str) -> dict:
