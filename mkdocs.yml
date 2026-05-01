@@ -1,0 +1,106 @@
+site_name: Huberman Lab Wiki
+site_description: A comprehensive, searchable knowledge base distilled from 394 Huberman Lab episodes — protocols, research findings, and science-backed tools.
+site_author: Patryk Wajs
+site_url: https://patrykwajs.github.io/Huberman-Lab-Wiki/
+repo_url: https://github.com/PatrykWajs/Huberman-Lab-Wiki
+repo_name: PatrykWajs/Huberman-Lab-Wiki
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+use_directory_urls: true
+
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/images/favicon.svg
+  icon:
+    logo: fontawesome/solid/brain
+    edit: material/pencil
+    view: material/eye
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.path
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - toc.follow
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+  - literate-nav
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/PatrykWajs/Huberman-Lab-Wiki
+      name: View on GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@hubermanlab
+      name: Huberman Lab YouTube
+  status:
+    new: New
+
+nav:
+  - Home: index.md
+  - Knowledge Map: MAP.md
+  - Topic Conclusions:
+      - Conclusions/
+  - Indices:
+      - Guests: GUESTS.md
+      - Mechanisms:
+          - Overview: MECHANISMS.md
+          - A–E: MECHANISMS-A-E.md
+          - G–N: MECHANISMS-G-N.md
+          - S–T: MECHANISMS-S-T.md
