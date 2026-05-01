@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway"
 episode_number: 389
@@ -105,4 +104,3 @@ topics:
 - AG1 (mentioned as daily nutritional support sponsor) — comprehensive foundational supplement combining vitamins, minerals, prebiotics, probiotics, and adaptogens.
 - Protein bars (David brand) — 20g protein, 150 calories, zero sugar; practical tool for hitting daily protein targets without excess caloric intake.
 
-```
