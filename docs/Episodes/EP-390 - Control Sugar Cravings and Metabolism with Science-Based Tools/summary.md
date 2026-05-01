@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Control Sugar Cravings & Metabolism with Science-Based Tools | Huberman Lab Essentials"
 episode_number: 390
@@ -128,4 +127,3 @@ topics:
 ### Key Researchers
 - **Dr. Diego Bahorquez (Duke University):** Discoverer of neuropod cells in the gut.
 - **Dr. Charles Zuker (Columbia Medical School):** Research on taste perception and neural modulation of sweet taste responses.
-```
