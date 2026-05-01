@@ -30,7 +30,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
     ---
 
-    Chronological list of all 397 episodes with direct links to summaries and transcripts.
+    Chronological list of all 390 episodes with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -102,7 +102,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |
-| **Last Updated** | April 2026 |
+| **Last Updated** | May 2026 |
 
 ---
 
