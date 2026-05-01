@@ -1,0 +1,243 @@
+/* =================================================================
+   Huberman Lab Wiki — Professional Design System
+   ================================================================= */
+
+/* ----------------------------------------------------------------
+   BLUE PALETTE OVERRIDES (light mode)
+   ---------------------------------------------------------------- */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #1A56DB;  /* Professional blue */
+  --md-primary-fg-color--light: #3b82f6;
+  --md-primary-fg-color--dark:  #1239a5;
+  --md-accent-fg-color:         #0ea5e9;
+  --md-accent-fg-color--transparent: rgba(14, 165, 233, 0.1);
+  --hl-border: #1A56DB;
+  --card-bg: #f0f5ff;
+  --card-shadow: rgba(26, 86, 219, 0.08);
+  --citation-color: #4b6a9b;
+  --citation-border: #c7d8f5;
+}
+
+/* ----------------------------------------------------------------
+   BLUE PALETTE OVERRIDES (dark mode)
+   ---------------------------------------------------------------- */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #3b82f6;
+  --md-primary-fg-color--light: #60a5fa;
+  --md-primary-fg-color--dark:  #1A56DB;
+  --md-accent-fg-color:         #38bdf8;
+  --hl-border: #3b82f6;
+  --card-bg: rgba(59, 130, 246, 0.06);
+  --card-shadow: rgba(0, 0, 0, 0.25);
+  --citation-color: #7eaee8;
+  --citation-border: rgba(59, 130, 246, 0.25);
+}
+
+/* ----------------------------------------------------------------
+   HEADER — professional depth
+   ---------------------------------------------------------------- */
+.md-header {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(8px);
+}
+
+.md-header__title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* ----------------------------------------------------------------
+   NAVIGATION TABS
+   ---------------------------------------------------------------- */
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  font-weight: 600;
+}
+
+/* ----------------------------------------------------------------
+   TYPOGRAPHY
+   ---------------------------------------------------------------- */
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+  border-bottom: 3px solid var(--md-primary-fg-color);
+  padding-bottom: 12px;
+  margin-bottom: 24px;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--md-primary-fg-color);
+  margin-top: 2em;
+}
+
+.md-typeset h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* ----------------------------------------------------------------
+   FINDING CARDS — conclusion pages bullet list items
+   Each top-level bullet becomes a visually distinct research card
+   Nested bullets inside cards revert to plain list style
+   ---------------------------------------------------------------- */
+.md-typeset article ul:not(.grid):not(.task-list) > li {
+  background: var(--card-bg);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 0 8px 8px 0;
+  padding: 14px 18px 10px 20px;
+  margin: 10px 0;
+  list-style: none;
+  box-shadow: 0 1px 4px var(--card-shadow);
+  transition: box-shadow 0.2s ease, transform 0.15s ease, border-color 0.15s ease;
+  line-height: 1.6;
+}
+
+.md-typeset article ul:not(.grid):not(.task-list) > li:hover {
+  box-shadow: 0 4px 16px var(--card-shadow);
+  transform: translateX(4px);
+  border-left-color: var(--md-accent-fg-color);
+}
+
+/* Remove default list indentation for top-level cards */
+.md-typeset article ul:not(.grid):not(.task-list) {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Nested bullets inside cards — revert to plain style */
+.md-typeset article ul:not(.grid):not(.task-list) > li ul > li {
+  background: none;
+  border-left: none;
+  border-radius: 0;
+  padding: 2px 0;
+  margin: 2px 0;
+  list-style: disc;
+  box-shadow: none;
+  transform: none;
+}
+
+.md-typeset article ul:not(.grid):not(.task-list) > li ul {
+  padding-left: 1.4em;
+  margin-left: 0;
+  margin-top: 6px;
+}
+
+/* ----------------------------------------------------------------
+   CITATION — the "— from [Episode]" at end of each finding
+   Styled as a subtle source badge below the finding text
+   ---------------------------------------------------------------- */
+.md-typeset article ul > li em:last-of-type {
+  display: block;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid var(--citation-border);
+  font-size: 0.78em;
+  font-style: normal;
+  color: var(--citation-color);
+  letter-spacing: 0.01em;
+}
+
+.md-typeset article ul > li em:last-of-type a {
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.md-typeset article ul > li em:last-of-type a:hover {
+  text-decoration: underline;
+}
+
+/* ----------------------------------------------------------------
+   GRID CARDS (home page) — keep MkDocs Material default style
+   Don't override the fancy feature cards on the home page
+   ---------------------------------------------------------------- */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > ul > li {
+  background: unset;
+  border-left: unset;
+  border-radius: unset;
+  padding: unset;
+  margin: unset;
+  list-style: unset;
+  box-shadow: unset;
+  transform: unset;
+}
+
+.md-typeset .grid.cards > ul,
+.md-typeset .grid > ul {
+  padding-left: unset;
+  margin-left: unset;
+}
+
+/* ----------------------------------------------------------------
+   LINKS — professional blue
+   ---------------------------------------------------------------- */
+.md-typeset a {
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.md-typeset a:hover {
+  text-decoration: underline;
+  color: var(--md-accent-fg-color);
+}
+
+/* ----------------------------------------------------------------
+   SEARCH BAR
+   ---------------------------------------------------------------- */
+.md-search__form {
+  border-radius: 8px;
+}
+
+/* ----------------------------------------------------------------
+   CONTENT AREA
+   ---------------------------------------------------------------- */
+.md-content {
+  max-width: 900px;
+}
+
+/* ----------------------------------------------------------------
+   FOOTER
+   ---------------------------------------------------------------- */
+.md-footer {
+  background: var(--md-primary-fg-color--dark);
+}
+
+/* ----------------------------------------------------------------
+   ADMONITIONS — sharper, more professional
+   ---------------------------------------------------------------- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0 8px 8px 0;
+  border-left-width: 4px;
+}
+
+/* ----------------------------------------------------------------
+   CODE BLOCKS
+   ---------------------------------------------------------------- */
+.md-typeset code {
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+/* ----------------------------------------------------------------
+   TABLE — clean professional look
+   ---------------------------------------------------------------- */
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-primary-fg-color);
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-size: 0.8em;
+}

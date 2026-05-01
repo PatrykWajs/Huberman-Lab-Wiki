@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patrykwajs.github.io/Huberman-Lab-Wiki/sitemap.xml
