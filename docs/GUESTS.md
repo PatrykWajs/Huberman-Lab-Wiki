@@ -113,16 +113,16 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-281 - How to Improve Your Vitality & Heal From Disease - Dr. Mark Hyman](Episodes/EP-281 - How to Improve Your Vitality and Heal From Disease - Dr. Mark Hyman/summary.md)
 - [EP-302 - Control Your Vagus Nerve to Improve Mood, Alertness & Neuroplasticity](Episodes/EP-302 - Control Your Vagus Nerve to Improve Mood, Alertness and Neuroplasticity/summary.md)
 - [EP-314 - How to Control Your Cortisol & Overcome Burnout](Episodes/EP-314 - How to Control Your Cortisol and Overcome Burnout/summary.md)
-- [EP-326 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Seattle, WA](Episodes/EP-326 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Seattle, WA/summary.md)
-- [EP-327 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Portland, OR](Episodes/EP-327 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Portland, OR/summary.md)
-- [EP-328 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Los Angeles, CA](Episodes/EP-328 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Los Angeles, CA/summary.md)
+- [EP-326 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Seattle, WA](Episodes/EP-393 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Seattle, WA/summary.md)
+- [EP-327 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Portland, OR](Episodes/EP-394 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Portland, OR/summary.md)
+- [EP-328 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Los Angeles, CA](Episodes/EP-395 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Los Angeles, CA/summary.md)
 - [EP-329 - Essentials - Using Your Nervous System to Enhance Your Immune System](Episodes/EP-329 - Essentials - Using Your Nervous System to Enhance Your Immune System/summary.md)
-- [EP-329 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in New York, NY](Episodes/EP-329 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in New York, NY/summary.md)
-- [EP-330 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Toronto, ON](Episodes/EP-330 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Toronto, ON/summary.md)
-- [EP-331 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Chicago, IL](Episodes/EP-331 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Chicago, IL/summary.md)
-- [EP-332 - AMA 15 - Fluoride Benefits](Episodes/EP-332 - AMA 15 - Fluoride Benefits/summary.md)
-- [EP-333 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Melbourne](Episodes/EP-333 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Melbourne/summary.md)
-- [EP-334 - LIVE EVENT Q&A - Dr. Andrew Huberman at the Sydney Opera House](Episodes/EP-334 - LIVE EVENT QandA - Dr. Andrew Huberman at the Sydney Opera House/summary.md)
+- [EP-329 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in New York, NY](Episodes/EP-396 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in New York, NY/summary.md)
+- [EP-330 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Toronto, ON](Episodes/EP-397 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Toronto, ON/summary.md)
+- [EP-331 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Chicago, IL](Episodes/EP-398 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Chicago, IL/summary.md)
+- [EP-399 - AMA 15 - Fluoride Benefits](Episodes/EP-399 - AMA 15 - Fluoride Benefits/summary.md)
+- [EP-333 - LIVE EVENT Q&A - Dr. Andrew Huberman Question & Answer in Melbourne](Episodes/EP-400 - LIVE EVENT QandA - Dr. Andrew Huberman Question and Answer in Melbourne/summary.md)
+- [EP-334 - LIVE EVENT Q&A - Dr. Andrew Huberman at the Sydney Opera House](Episodes/EP-401 - LIVE EVENT QandA - Dr. Andrew Huberman at the Sydney Opera House/summary.md)
 - [EP-337 - Essentials - The Science of Gratitude & How to Build a Gratitude Practice](Episodes/EP-337 - Essentials - The Science of Gratitude and How to Build a Gratitude Practice/summary.md)
 - [EP-338 - Improve Your Lymphatic System for Overall Health & Appearance](Episodes/EP-338 - Improve Your Lymphatic System for Overall Health and Appearance/summary.md)
 - [EP-345 - Essentials - Science of Building Strong Social Bonds with Family, Friends & Romantic Partners](Episodes/EP-345 - Essentials - Science of Building Strong Social Bonds with Family, Friends and Romantic Partners/summary.md)
@@ -500,7 +500,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Natalie Crawford
 - [EP-171 - Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford](Episodes/EP-171 - Female Hormone Health, Fertility and Vitality - Dr. Natalie Crawford/summary.md)
-- [EP-335 - How Women Can Improve Their Fertility & Hormone Health - Dr. Natalie Crawford](Episodes/EP-335 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
 
 ### Dr. Nirao Shah
 - [EP-312 - Male vs. Female Brain Differences & How They Arise From Genes & Hormones - Dr. Nirao Shah](Episodes/EP-312 - Male vs. Female Brain Differences and How They Arise From Genes and Hormones - Dr. Nirao Shah/summary.md)

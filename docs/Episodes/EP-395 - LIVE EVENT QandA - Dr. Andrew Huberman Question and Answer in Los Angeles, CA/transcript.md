@@ -1,6 +1,6 @@
 ---
 type: transcript
-episode_number: 328
+episode_number: 395
 episode_date: 2022-11-09
 speakers:
   - Andrew Huberman

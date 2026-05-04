@@ -1,7 +1,7 @@
 ---
 title: "LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in New York, NY"
 type: transcript
-episode_number: 329
+episode_number: 396
 episode_date: "2022-12-14"
 speakers:
   - Andrew Huberman

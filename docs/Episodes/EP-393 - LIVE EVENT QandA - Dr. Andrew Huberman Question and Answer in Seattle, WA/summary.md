@@ -1,6 +1,6 @@
 ---
 title: 'LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in Seattle, WA'
-episode_number: 326
+episode_number: 393
 guest: Andrew Huberman
 date: 2022-08-17
 topics:
