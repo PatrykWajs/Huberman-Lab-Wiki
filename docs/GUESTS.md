@@ -815,3 +815,9 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Scott Galloway, Professor at New York University's Stern School of Business
 - [EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](Episodes/EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life - Scott Galloway/summary.md)
+
+### Dr. Natalie Crawford, MD — Double board-certified physician in obstetrics/gynecology, fertility, and reproductive health
+- [EP-391 - How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford](Episodes/EP-391 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
+
+### Dr. Paul Conti, MD, Psychiatrist
+- [EP-392 - Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
