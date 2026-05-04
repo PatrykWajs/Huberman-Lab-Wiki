@@ -1,7 +1,7 @@
 ---
 title: "LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in Portland, OR"
 type: transcript
-episode_number: 327
+episode_number: 394
 episode_date: "2022-08-31"
 speakers: [Andrew Huberman]
 youtube_id: 3_auLYOilb8

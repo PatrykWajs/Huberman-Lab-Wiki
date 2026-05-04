@@ -1,6 +1,6 @@
 ---
 title: 'LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in Portland, OR'
-episode_number: 327
+episode_number: 394
 guest: Andrew Huberman
 date: '2022-08-31'
 topics:

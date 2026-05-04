@@ -2,7 +2,7 @@
 title: "LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in Seattle, WA"
 type: transcript
 episode_date: 2022-08-17
-episode_number: 326
+episode_number: 393
 speakers: [Andrew Huberman, Audience]
 youtube_id: 2Ds1m5gflCI
 search:

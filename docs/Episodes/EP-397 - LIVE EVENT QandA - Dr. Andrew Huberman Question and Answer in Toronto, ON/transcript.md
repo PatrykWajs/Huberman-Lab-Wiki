@@ -1,6 +1,6 @@
 ---
 type: transcript
-episode_number: 330
+episode_number: 397
 episode_date: "2023-11-15"
 speakers:
   - Andrew Huberman

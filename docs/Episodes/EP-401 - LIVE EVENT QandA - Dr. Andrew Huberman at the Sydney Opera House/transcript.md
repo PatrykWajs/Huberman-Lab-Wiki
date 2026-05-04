@@ -1,7 +1,7 @@
 ---
 title: "LIVE EVENT Q&A: Dr. Andrew Huberman at the Sydney Opera House"
 type: transcript
-episode_number: 334
+episode_number: 401
 episode_date: 2024-04-19
 speakers:
   - Andrew Huberman

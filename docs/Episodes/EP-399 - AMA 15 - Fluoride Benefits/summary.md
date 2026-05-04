@@ -1,6 +1,6 @@
 ---
 title: 'AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation'
-episode_number: 332
+episode_number: 399
 guest: Andrew Huberman
 date: 2024-01-31
 topics: []
