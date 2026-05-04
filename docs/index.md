@@ -4,7 +4,7 @@ title: Home
 
 # Huberman Lab Wiki
 
-The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **392 episodes**.
+The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **401 episodes**.
 
 Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research use.
 
@@ -98,7 +98,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 392 |
+| **Total Episodes** | 401 |
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |
