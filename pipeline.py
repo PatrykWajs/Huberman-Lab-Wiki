@@ -135,6 +135,9 @@ def build_transcript_md(title: str, video_id: str, date: str, episode_num: int, 
 
 
 def clean_folder_name(title: str) -> str:
+    # Decode HTML entities before any substitution
+    import html
+    title = html.unescape(title)
     # Remove YouTube channel suffix
     title = re.sub(r'\s*\|\s*Huberman Lab.*$', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\s*\|\s*Huberman Lab Podcast.*$', '', title, flags=re.IGNORECASE)

@@ -433,3 +433,5 @@
 
 - [EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](Episodes/EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life - Scott Galloway/summary.md)
 - [EP-390 - Control Sugar Cravings & Metabolism with Science-Based Tools | Huberman Lab Essentials](Episodes/EP-390 - Control Sugar Cravings and Metabolism with Science-Based Tools/summary.md)
+- [EP-391 - How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford](Episodes/EP-391 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
+- [EP-392 - Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)

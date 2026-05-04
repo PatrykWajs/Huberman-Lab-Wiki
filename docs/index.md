@@ -4,7 +4,7 @@ title: Home
 
 # Huberman Lab Wiki
 
-The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **390 episodes**.
+The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **392 episodes**.
 
 Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 ## 🎬 Latest Episode
 
-**EP-390 — Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools** *(April 30, 2026)*
+**EP-392 — Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti** *(May 4, 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/qUUfucHC7tU" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/cWCs7dxrt-A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-390 - Control Sugar Cravings and Metabolism with Science-Based Tools/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
 
 ---
 
@@ -30,7 +30,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
     ---
 
-    Chronological list of all 390 episodes with direct links to summaries and transcripts.
+    Chronological list of all 392 episodes with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -98,7 +98,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 390 |
+| **Total Episodes** | 392 |
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |
