@@ -2,6 +2,9 @@
 
 A complete index of every guest expert who has appeared on the Huberman Lab Podcast.
 
+### Dr. Adam Grant
+- [EP-173 - How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant](Episodes/EP-173 - How to Unlock Your Potential, Motivation and Unique Abilities - Dr. Adam Grant/summary.md)
+
 ### ADHD & How Anyone Can Improve Their Focus
 - [EP-313 - Essentials - ADHD & How Anyone Can Improve Their Focus](Episodes/EP-313 - Essentials - ADHD and How Anyone Can Improve Their Focus/summary.md)
 
@@ -10,6 +13,19 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Alex Honnold
 - [EP-322 - How to Set & Achieve Massive Goals - Alex Honnold](Episodes/EP-322 - How to Set and Achieve Massive Goals - Alex Honnold/summary.md)
+
+### Dr. Alex Marson
+- [EP-376 - Avoiding, Treating & Curing Cancer - Dr. Alex Marson](Episodes/EP-376 - Avoiding, Treating and Curing Cancer - Dr. Alex Marson/summary.md)
+
+### Dr. Alia Crum
+- [EP-056 - Science of Mindsets for Health & Performance | Dr. Alia Crum](Episodes/EP-056 - Science of Mindsets for Health and Performance - Dr. Alia Crum/summary.md)
+- [EP-323 - Essentials - Science of Mindsets for Health & Performance - Dr. Alia Crum](Episodes/EP-323 - Essentials - Science of Mindsets for Health and Performance - Dr. Alia Crum/summary.md)
+
+### Dr. Allan Schore
+- [EP-237 - How Relationships Shape Your Brain - Dr. Allan Schore](Episodes/EP-237 - How Relationships Shape Your Brain - Dr. Allan Schore/summary.md)
+
+### Dr. Alok Kanojia
+- [EP-374 - Unlearn Negative Thoughts & Behaviors Patterns - Dr. Alok Kanojia](Episodes/EP-374 - Unlearn Negative Thoughts and Behaviors Patterns - Dr. Alok Kanojia/summary.md)
 
 ### Andrew Huberman (Solo Episodes)
 - [EP-001 - How Your Brain Works & Changes](Episodes/EP-001 - How Your Brain Works and Changes/summary.md)
@@ -138,6 +154,13 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-372 - Restore Youthfulness & Vitality to the Aging Brain & Body - Dr. Tony Wyss-Coray](Episodes/EP-372 - Restore Youthfulness and Vitality to the Aging Brain and Body - Dr. Tony Wyss-Coray/summary.md)
 - [EP-381 - Essentials - Using Salt to Optimize Mental & Physical Performance](Episodes/EP-381 - Essentials - Using Salt to Optimize Mental and Physical Performance/summary.md)
 
+### Dr. Andy Galpin
+- [EP-383 - Essentials - How to Build Strength, Muscle Size & Endurance](Episodes/EP-383 - Essentials - How to Build Strength, Muscle Size and Endurance/summary.md)
+
+### Dr. Anna Lembke
+- [EP-033 - Understanding & Treating Addiction | Dr. Anna Lembke](Episodes/EP-033 - Understanding and Treating Addiction - Dr. Anna Lembke/summary.md)
+- [EP-303 - Essentials - Understanding & Treating Addiction - Dr. Anna Lembke](Episodes/EP-303 - Essentials - Understanding and Treating Addiction - Dr. Anna Lembke/summary.md)
+
 ### Anorexia, Bulimia, Binging
 - [EP-036 - Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging](Episodes/EP-036 - Healthy Eating and Eating Disorders - Anorexia, Bulimia, Binging/summary.md)
 - [EP-309 - Essentials - Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging](Episodes/EP-309 - Essentials - Healthy Eating and Eating Disorders - Anorexia, Bulimia, Binging/summary.md)
@@ -166,6 +189,13 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Based Tools for Increasing Happiness
 - [EP-099 - Science-Based Tools for Increasing Happiness](Episodes/EP-099 - Science-Based Tools for Increasing Happiness/summary.md)
 
+### Dr. Becky Kennedy
+- [EP-189 - Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](Episodes/EP-189 - Protocols for Excellent Parenting and Improving Relationships of All Kinds - Dr. Becky Kennedy/summary.md)
+- [EP-255 - Overcoming Guilt & Building Tenacity in Kids & Adults - Dr. Becky Kennedy](Episodes/EP-255 - Overcoming Guilt and Building Tenacity in Kids and Adults - Dr. Becky Kennedy/summary.md)
+
+### Dr. Bernardo Huberman
+- [EP-247 - How to Use Curiosity & Focus to Create a Joyful & Meaningful Life - Dr. Bernardo Huberman](Episodes/EP-247 - How to Use Curiosity and Focus to Create a Joyful and Meaningful Life - Dr. Bernardo Huberman/summary.md)
+
 ### Bill Eddy
 - [EP-235 - How to Deal With High Conflict People - Bill Eddy](Episodes/EP-235 - How to Deal With High Conflict People - Bill Eddy/summary.md)
 
@@ -175,80 +205,23 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Body Function & Health
 - [EP-030 - How to Optimize Your Brain-Body Function & Health](Episodes/EP-030 - How to Optimize Your Brain-Body Function and Health/summary.md)
 
+### Dr. Bonnie Halpern-Felsher
+- [EP-201 - Vaping, Alcohol Use & Other Risky Youth Behaviors - Dr. Bonnie Halpern-Felsher](Episodes/EP-201 - Vaping, Alcohol Use and Other Risky Youth Behaviors - Dr. Bonnie Halpern-Felsher/summary.md)
+
 ### Boost Your Energy & Immune System with Cortisol & Adrenaline
 - [EP-272 - Essentials - Boost Your Energy & Immune System with Cortisol & Adrenaline](Episodes/EP-272 - Essentials - Boost Your Energy and Immune System with Cortisol and Adrenaline/summary.md)
 
 ### Brain Axis & More
 - [EP-190 - AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More](Episodes/EP-190 - AMA 16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis and More/summary.md)
 
-### Build Muscle Size, Increase Strength & Improve Recovery
-- [EP-280 - Essentials - Build Muscle Size, Increase Strength & Improve Recovery](Episodes/EP-280 - Essentials - Build Muscle Size, Increase Strength and Improve Recovery/summary.md)
-
-### Chris Voss
-- [EP-164 - How to Succeed at Hard Conversations | Chris Voss](Episodes/EP-164 - How to Succeed at Hard Conversations - Chris Voss/summary.md)
-
-### Coleman Ruiz
-- [EP-197 - Overcoming Physical & Emotional Challenges | Coleman Ruiz](Episodes/EP-197 - Overcoming Physical and Emotional Challenges - Coleman Ruiz/summary.md)
-
-### Collagen vs Whey Protein, Creatine, Smelling Salts
-- [EP-285 - AMA 19 - Collagen vs Whey Protein, Creatine, Smelling Salts](Episodes/EP-285 - AMA 19 - Collagen vs Whey Protein, Creatine, Smelling Salts/summary.md)
-
-### Controlling Your Dopamine for Motivation, Focus & Satisfaction
-- [EP-317 - Essentials - Controlling Your Dopamine for Motivation, Focus & Satisfaction](Episodes/EP-317 - Essentials - Controlling Your Dopamine for Motivation, Focus and Satisfaction/summary.md)
-
-### DJ Shipley
-- [EP-332 - How to Make Yourself Unbreakable - DJ Shipley](Episodes/EP-332 - How to Make Yourself Unbreakable - DJ Shipley/summary.md)
-
-### David Choe
-- [EP-354 - Transform Pain & Trauma Into Creative Expression - David Choe](Episodes/EP-354 - Transform Pain and Trauma Into Creative Expression - David Choe/summary.md)
-
-### David Goggins
-- [EP-180 - How to Build Immense Inner Strength | David Goggins](Episodes/EP-180 - How to Build Immense Inner Strength - David Goggins/summary.md)
-
-### Dorian Yates
-- [EP-362 - Build Muscle & Strength & Forge Your Life Path - Dorian Yates](Episodes/EP-362 - Build Muscle and Strength and Forge Your Life Path - Dorian Yates/summary.md)
-
-### Dr Lex Fridman
-- [EP-101 - Navigating Conflict, Finding Purpose & Maintaining Drive | Dr Lex Fridman](Episodes/EP-101 - Navigating Conflict, Finding Purpose and Maintaining Drive - Dr Lex Fridman/summary.md)
-
-### Dr. Adam Grant
-- [EP-173 - How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant](Episodes/EP-173 - How to Unlock Your Potential, Motivation and Unique Abilities - Dr. Adam Grant/summary.md)
-
-### Dr. Alex Marson
-- [EP-376 - Avoiding, Treating & Curing Cancer - Dr. Alex Marson](Episodes/EP-376 - Avoiding, Treating and Curing Cancer - Dr. Alex Marson/summary.md)
-
-### Dr. Alia Crum
-- [EP-056 - Science of Mindsets for Health & Performance | Dr. Alia Crum](Episodes/EP-056 - Science of Mindsets for Health and Performance - Dr. Alia Crum/summary.md)
-- [EP-323 - Essentials - Science of Mindsets for Health & Performance - Dr. Alia Crum](Episodes/EP-323 - Essentials - Science of Mindsets for Health and Performance - Dr. Alia Crum/summary.md)
-
-### Dr. Allan Schore
-- [EP-237 - How Relationships Shape Your Brain - Dr. Allan Schore](Episodes/EP-237 - How Relationships Shape Your Brain - Dr. Allan Schore/summary.md)
-
-### Dr. Alok Kanojia
-- [EP-374 - Unlearn Negative Thoughts & Behaviors Patterns - Dr. Alok Kanojia](Episodes/EP-374 - Unlearn Negative Thoughts and Behaviors Patterns - Dr. Alok Kanojia/summary.md)
-
-### Dr. Andy Galpin
-- [EP-383 - Essentials - How to Build Strength, Muscle Size & Endurance](Episodes/EP-383 - Essentials - How to Build Strength, Muscle Size and Endurance/summary.md)
-
-### Dr. Anna Lembke
-- [EP-033 - Understanding & Treating Addiction | Dr. Anna Lembke](Episodes/EP-033 - Understanding and Treating Addiction - Dr. Anna Lembke/summary.md)
-- [EP-303 - Essentials - Understanding & Treating Addiction - Dr. Anna Lembke](Episodes/EP-303 - Essentials - Understanding and Treating Addiction - Dr. Anna Lembke/summary.md)
-
-### Dr. Becky Kennedy
-- [EP-189 - Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](Episodes/EP-189 - Protocols for Excellent Parenting and Improving Relationships of All Kinds - Dr. Becky Kennedy/summary.md)
-- [EP-255 - Overcoming Guilt & Building Tenacity in Kids & Adults - Dr. Becky Kennedy](Episodes/EP-255 - Overcoming Guilt and Building Tenacity in Kids and Adults - Dr. Becky Kennedy/summary.md)
-
-### Dr. Bernardo Huberman
-- [EP-247 - How to Use Curiosity & Focus to Create a Joyful & Meaningful Life - Dr. Bernardo Huberman](Episodes/EP-247 - How to Use Curiosity and Focus to Create a Joyful and Meaningful Life - Dr. Bernardo Huberman/summary.md)
-
-### Dr. Bonnie Halpern-Felsher
-- [EP-201 - Vaping, Alcohol Use & Other Risky Youth Behaviors - Dr. Bonnie Halpern-Felsher](Episodes/EP-201 - Vaping, Alcohol Use and Other Risky Youth Behaviors - Dr. Bonnie Halpern-Felsher/summary.md)
-
 ### Dr. Bret Contreras
 - [EP-328 - Build Your Ideal Physique - Dr. Bret Contreras](Episodes/EP-328 - Build Your Ideal Physique - Dr. Bret Contreras/summary.md)
 
 ### Dr. Brian Keating
 - [EP-257 - Charting the Architecture of the Universe & Human Life - Dr. Brian Keating](Episodes/EP-257 - Charting the Architecture of the Universe and Human Life - Dr. Brian Keating/summary.md)
+
+### Build Muscle Size, Increase Strength & Improve Recovery
+- [EP-280 - Essentials - Build Muscle Size, Increase Strength & Improve Recovery](Episodes/EP-280 - Essentials - Build Muscle Size, Increase Strength and Improve Recovery/summary.md)
 
 ### Dr. Cal Newport
 - [EP-192 - How to Enhance Focus and Improve Productivity | Dr. Cal Newport](Episodes/EP-192 - How to Enhance Focus and Improve Productivity - Dr. Cal Newport/summary.md)
@@ -273,11 +246,23 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-100 - Diet & Nutrition for Mental Health | Dr. Chris Palmer](Episodes/EP-100 - Diet and Nutrition for Mental Health - Dr. Chris Palmer/summary.md)
 - [EP-277 - Transform Your Mental Health With Diet & Lifestyle - Dr. Chris Palmer](Episodes/EP-277 - Transform Your Mental Health With Diet and Lifestyle - Dr. Chris Palmer/summary.md)
 
+### Chris Voss
+- [EP-164 - How to Succeed at Hard Conversations | Chris Voss](Episodes/EP-164 - How to Succeed at Hard Conversations - Chris Voss/summary.md)
+
 ### Dr. Christof Koch
 - [EP-326 - How to Expand Your Consciousness - Dr. Christof Koch](Episodes/EP-326 - How to Expand Your Consciousness - Dr. Christof Koch/summary.md)
 
 ### Dr. Christopher Gardner
 - [EP-290 - How Different Diets Impact Your Health - Dr. Christopher Gardner](Episodes/EP-290 - How Different Diets Impact Your Health - Dr. Christopher Gardner/summary.md)
+
+### Coleman Ruiz
+- [EP-197 - Overcoming Physical & Emotional Challenges | Coleman Ruiz](Episodes/EP-197 - Overcoming Physical and Emotional Challenges - Coleman Ruiz/summary.md)
+
+### Collagen vs Whey Protein, Creatine, Smelling Salts
+- [EP-285 - AMA 19 - Collagen vs Whey Protein, Creatine, Smelling Salts](Episodes/EP-285 - AMA 19 - Collagen vs Whey Protein, Creatine, Smelling Salts/summary.md)
+
+### Controlling Your Dopamine for Motivation, Focus & Satisfaction
+- [EP-317 - Essentials - Controlling Your Dopamine for Motivation, Focus & Satisfaction](Episodes/EP-317 - Essentials - Controlling Your Dopamine for Motivation, Focus and Satisfaction/summary.md)
 
 ### Dr. Craig Heller
 - [EP-040 - Using Temperature for Performance, Brain & Body Health | Dr. Craig Heller](Episodes/EP-040 - Using Temperature for Performance, Brain and Body Health - Dr. Craig Heller/summary.md)
@@ -301,6 +286,9 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-048 - How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss](Episodes/EP-048 - How Humans Select and Keep Romantic Partners in Short and Long Term - Dr. David Buss/summary.md)
 - [EP-331 - Essentials - How Humans Select & Keep Romantic Partners](Episodes/EP-331 - Essentials - How Humans Select and Keep Romantic Partners/summary.md)
 
+### David Choe
+- [EP-354 - Transform Pain & Trauma Into Creative Expression - David Choe](Episodes/EP-354 - Transform Pain and Trauma Into Creative Expression - David Choe/summary.md)
+
 ### Dr. David DeSteno
 - [EP-320 - Science & Health Benefits of Belief in God & Religion - Dr. David DeSteno](Episodes/EP-320 - Science and Health Benefits of Belief in God and Religion - Dr. David DeSteno/summary.md)
 
@@ -309,6 +297,9 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. David Fajgenbaum
 - [EP-340 - How A Doctor Cured His Own Terminal Disease - Dr. David Fajgenbaum](Episodes/EP-340 - How A Doctor Cured His Own Terminal Disease - Dr. David Fajgenbaum/summary.md)
+
+### David Goggins
+- [EP-180 - How to Build Immense Inner Strength | David Goggins](Episodes/EP-180 - How to Build Immense Inner Strength - David Goggins/summary.md)
 
 ### Dr. David Linden
 - [EP-153 - Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden](Episodes/EP-153 - Life, Death and the Neuroscience of Your Unique Experience - Dr. David Linden/summary.md)
@@ -327,6 +318,15 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Dr. Diego Bohórquez
 - [EP-211 - The Science of Your Gut Sense & the Gut-Brain Axis - Dr. Diego Bohorquez](Episodes/EP-211 - The Science of Your Gut Sense and the Gut-Brain Axis - Dr. Diego Bohorquez/summary.md)
 
+### DJ Shipley
+- [EP-332 - How to Make Yourself Unbreakable - DJ Shipley](Episodes/EP-332 - How to Make Yourself Unbreakable - DJ Shipley/summary.md)
+
+### Dorian Yates
+- [EP-362 - Build Muscle & Strength & Forge Your Life Path - Dorian Yates](Episodes/EP-362 - Build Muscle and Strength and Forge Your Life Path - Dorian Yates/summary.md)
+
+### Dr Lex Fridman
+- [EP-101 - Navigating Conflict, Finding Purpose & Maintaining Drive | Dr Lex Fridman](Episodes/EP-101 - Navigating Conflict, Finding Purpose and Maintaining Drive - Dr Lex Fridman/summary.md)
+
 ### Dr. Duncan French
 - [EP-045 - How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](Episodes/EP-045 - How to Exercise for Strength Gains and Hormone Optimization - Dr. Duncan French/summary.md)
 - [EP-327 - Essentials - How to Exercise for Strength Gains & Hormone Optimization](Episodes/EP-327 - Essentials - How to Exercise for Strength Gains and Hormone Optimization/summary.md)
@@ -336,6 +336,12 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Eddie Chang
 - [EP-095 - The Science of Learning & Speaking Languages | Dr. Eddie Chang](Episodes/EP-095 - The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
+
+### Effects of Fasting & Time Restricted Eating on Fat Loss & Health
+- [EP-321 - Essentials - Effects of Fasting & Time Restricted Eating on Fat Loss & Health](Episodes/EP-321 - Essentials - Effects of Fasting and Time Restricted Eating on Fat Loss and Health/summary.md)
+
+### Effects of Light & Dark on Mental Health & Treatments for Cancer
+- [EP-183 - Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer](Episodes/EP-183 - Journal Club with Dr. Peter Attia - Effects of Light and Dark on Mental Health and Treatments for Cancer/summary.md)
 
 ### Dr. Elissa Epel
 - [EP-129 - Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](Episodes/EP-129 - Control Stress for Healthy Eating, Metabolism and Aging - Dr. Elissa Epel/summary.md)
@@ -351,8 +357,14 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-087 - The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis](Episodes/EP-087 - The Neuroscience of Speech, Language and Music - Dr. Erich Jarvis/summary.md)
 - [EP-388 - Essentials - The Neuroscience of Speech, Language & Music - Dr. Erich Jarvis](Episodes/EP-388 - Essentials - The Neuroscience of Speech, Language and Music - Dr. Erich Jarvis/summary.md)
 
+### Esther Perel
+- [EP-229 - How to Find, Build & Maintain Healthy Romantic Relationships - Esther Perel](Episodes/EP-229 - How to Find, Build and Maintain Healthy Romantic Relationships - Esther Perel/summary.md)
+
 ### Dr. Ethan Kross
 - [EP-241 - How to Control Your Inner Voice & Increase Your Resilience - Dr. Ethan Kross](Episodes/EP-241 - How to Control Your Inner Voice and Increase Your Resilience - Dr. Ethan Kross/summary.md)
+
+### Food & Supplements for Brain Health & Cognitive Performance
+- [EP-325 - Essentials - Food & Supplements for Brain Health & Cognitive Performance](Episodes/EP-325 - Essentials - Food and Supplements for Brain Health and Cognitive Performance/summary.md)
 
 ### Dr. Gabrielle Lyon
 - [EP-216 - How to Exercise & Eat for Optimal Health & Longevity - Dr. Gabrielle Lyon](Episodes/EP-216 - How to Exercise and Eat for Optimal Health and Longevity - Dr. Gabrielle Lyon/summary.md)
@@ -365,260 +377,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Harold McGee
 - [EP-304 - The Chemistry of Food & Taste - Dr. Harold McGee](Episodes/EP-304 - The Chemistry of Food and Taste - Dr. Harold McGee/summary.md)
-
-### Dr. Jack Feldman
-- [EP-054 - Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](Episodes/EP-054 - Breathing for Mental and Physical Health and Performance - Dr. Jack Feldman/summary.md)
-- [EP-343 - Essentials - Breathing for Mental & Physical Health & Performance](Episodes/EP-343 - Essentials - Breathing for Mental and Physical Health and Performance/summary.md)
-
-### Dr. James Hollis
-- [EP-208 - How to Find Your True Purpose & Create Your Best Life - Dr. James Hollis](Episodes/EP-208 - How to Find Your True Purpose and Create Your Best Life - Dr. James Hollis/summary.md)
-
-### Dr. Jamil Zaki
-- [EP-227 - How to Cultivate a Positive, Growth-Oriented Mindset - Dr. Jamil Zaki](Episodes/EP-227 - How to Cultivate a Positive, Growth-Oriented Mindset - Dr. Jamil Zaki/summary.md)
-
-### Dr. Jay Bhattacharya
-- [EP-298 - Improving Science & Restoring Trust in Public Health - Dr. Jay Bhattacharya](Episodes/EP-298 - Improving Science and Restoring Trust in Public Health - Dr. Jay Bhattacharya/summary.md)
-
-### Dr. Jeffrey Goldberg
-- [EP-144 - How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](Episodes/EP-144 - How to Improve Your Eye Health and Offset Vision Loss - Dr. Jeffrey Goldberg/summary.md)
-
-### Dr. Jennifer Groh
-- [EP-342 - How Your Thoughts Are Built & How You Can Shape Them - Dr. Jennifer Groh](Episodes/EP-342 - How Your Thoughts Are Built and How You Can Shape Them - Dr. Jennifer Groh/summary.md)
-
-### Dr. John Kruse
-- [EP-271 - Improve Focus with Behavioral Tools & Medication for ADHD - Dr. John Kruse](Episodes/EP-271 - Improve Focus with Behavioral Tools and Medication for ADHD - Dr. John Kruse/summary.md)
-
-### Dr. Jonathan Haidt
-- [EP-214 - How Smartphones & Social Media Impact Mental Health & the Realistic Solutions - Dr. Jonathan Haidt](Episodes/EP-214 - How Smartphones and Social Media Impact Mental Health and the Realistic Solutions - Dr. Jonathan Haidt/summary.md)
-
-### Dr. Jordan Peterson
-- [EP-251 - How to Best Guide Your Life Decisions & Path - Dr. Jordan Peterson](Episodes/EP-251 - How to Best Guide Your Life Decisions and Path - Dr. Jordan Peterson/summary.md)
-
-### Dr. Justin Sonnenburg
-- [EP-062 - How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](Episodes/EP-062 - How to Build, Maintain and Repair Gut Health - Dr. Justin Sonnenburg/summary.md)
-- [EP-351 - Essentials - Build a Healthy Gut Microbiome](Episodes/EP-351 - Essentials - Build a Healthy Gut Microbiome/summary.md)
-
-### Dr. Karen Parker
-- [EP-176 - The Causes & Treatments for Autism | Dr. Karen Parker](Episodes/EP-176 - The Causes and Treatments for Autism - Dr. Karen Parker/summary.md)
-
-### Dr. Karl Deisseroth
-- [EP-026 - Understanding & Healing the Mind | Dr. Karl Deisseroth](Episodes/EP-026 - Understanding and Healing the Mind - Dr. Karl Deisseroth/summary.md)
-- [EP-291 - Essentials - Understanding & Healing the Mind - Dr. Karl Deisseroth](Episodes/EP-291 - Essentials - Understanding and Healing the Mind - Dr. Karl Deisseroth/summary.md)
-
-### Dr. Karolina Westlund
-- [EP-286 - What Pets Actually Want & Need - Dr. Karolina Westlund](Episodes/EP-286 - What Pets Actually Want and Need - Dr. Karolina Westlund/summary.md)
-
-### Dr. Kathryn Paige Harden
-- [EP-368 - How Genes Shape Your Risk Taking & Morals - Dr. Kathryn Paige Harden](Episodes/EP-368 - How Genes Shape Your Risk Taking and Morals - Dr. Kathryn Paige Harden/summary.md)
-
-### Dr. Kay Tye
-- [EP-186 - The Biology of Social Interactions & Emotions | Dr. Kay Tye](Episodes/EP-186 - The Biology of Social Interactions and Emotions - Dr. Kay Tye/summary.md)
-
-### Dr. Kelly Starrett
-- [EP-245 - How to Improve Your Mobility, Posture & Flexibility - Dr. Kelly Starrett](Episodes/EP-245 - How to Improve Your Mobility, Posture and Flexibility - Dr. Kelly Starrett/summary.md)
-
-### Dr. Konstantina Stankovic
-- [EP-334 - Protect & Improve Your Hearing & Brain Health - Dr. Konstantina Stankovic](Episodes/EP-334 - Protect and Improve Your Hearing and Brain Health - Dr. Konstantina Stankovic/summary.md)
-
-### Dr. Kyle Gillett
-- [EP-067 - How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](Episodes/EP-067 - How to Optimize Your Hormones for Health and Vitality - Dr. Kyle Gillett/summary.md)
-- [EP-104 - Tools for Hormone Optimization in Males | Dr. Kyle Gillett](Episodes/EP-104 - Tools for Hormone Optimization in Males - Dr. Kyle Gillett/summary.md)
-- [EP-355 - Essentials - How to Optimize Your Hormones for Health & Vitality](Episodes/EP-355 - Essentials - How to Optimize Your Hormones for Health and Vitality/summary.md)
-
-### Dr. Laurie Santos
-- [EP-249 - How to Achieve True Happiness Using Science-Based Protocols - Dr. Laurie Santos](Episodes/EP-249 - How to Achieve True Happiness Using Science-Based Protocols - Dr. Laurie Santos/summary.md)
-
-### Dr. Layne Norton
-- [EP-098 - The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](Episodes/EP-098 - The Science of Eating for Health, Fat Loss and Lean Muscle - Dr. Layne Norton/summary.md)
-- [EP-224 - Tools for Nutrition & Fitness - Dr. Layne Norton](Episodes/EP-224 - Tools for Nutrition and Fitness - Dr. Layne Norton/summary.md)
-
-### Dr. Lex Fridman
-- [EP-029 - Machines, Creativity & Love | Dr. Lex Fridman](Episodes/EP-029 - Machines, Creativity and Love - Dr. Lex Fridman/summary.md)
-- [EP-295 - Essentials - Machines, Creativity & Love - Dr. Lex Fridman](Episodes/EP-295 - Essentials - Machines, Creativity and Love - Dr. Lex Fridman/summary.md)
-
-### Dr. Lisa Feldman Barrett
-- [EP-166 - How to Understand Emotions | Dr. Lisa Feldman Barrett](Episodes/EP-166 - How to Understand Emotions - Dr. Lisa Feldman Barrett/summary.md)
-
-### Dr. Marc Berman
-- [EP-308 - How Nature & Other Physical Environments Impact Your Focus, Cognition & Health - Dr. Marc Berman](Episodes/EP-308 - How Nature and Other Physical Environments Impact Your Focus, Cognition and Health - Dr. Marc Berman/summary.md)
-
-### Dr. Marc Brackett
-- [EP-228 - How to Increase Your Emotional Intelligence - Dr. Marc Brackett](Episodes/EP-228 - How to Increase Your Emotional Intelligence - Dr. Marc Brackett/summary.md)
-- [EP-387 - How to Better Regulate Your Emotions - Dr. Marc Brackett](Episodes/EP-387 - How to Better Regulate Your Emotions - Dr. Marc Brackett/summary.md)
-
-### Dr. Marc Breedlove
-- [EP-382 - How Hormones Shape Sexual Orientation & Behavior - Dr. Marc Breedlove](Episodes/EP-382 - How Hormones Shape Sexual Orientation and Behavior - Dr. Marc Breedlove/summary.md)
-
-### Dr. Mark D'Esposito
-- [EP-188 - How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito](Episodes/EP-188 - How to Optimize Cognitive Function and Brain Health - Dr. Mark D'Esposito/summary.md)
-
-### Dr. Martha Beck
-- [EP-223 - Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination - Dr. Martha Beck](Episodes/EP-223 - Access Your Best Self With Mind-Body Practices, Belief Testing and Imagination - Dr. Martha Beck/summary.md)
-
-### Dr. Martin Picard
-- [EP-352 - Improve Energy & Longevity by Optimizing Mitochondria - Dr. Martin Picard](Episodes/EP-352 - Improve Energy and Longevity by Optimizing Mitochondria - Dr. Martin Picard/summary.md)
-
-### Dr. Mary Claire Haver
-- [EP-212 - How to Navigate Menopause & Perimenopause for Maximum Health & Vitality - Dr. Mary Claire Haver](Episodes/EP-212 - How to Navigate Menopause and Perimenopause for Maximum Health and Vitality - Dr. Mary Claire Haver/summary.md)
-
-### Dr. Mary Helen Immordino-Yang
-- [EP-140 - How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](Episodes/EP-140 - How Emotions and Social Factors Impact Learning - Dr. Mary Helen Immordino-Yang/summary.md)
-
-### Dr. Mary-Frances O'Connor
-- [EP-296 - Healing From Grief & Loss - Dr. Mary-Frances O'Connor](Episodes/EP-296 - Healing From Grief and Loss - Dr. Mary-Frances O'Connor/summary.md)
-
-### Dr. Matt Walker
-- [EP-031 - The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](Episodes/EP-031 - The Science and Practice of Perfecting Your Sleep - Dr. Matt Walker/summary.md)
-
-### Dr. Matthew Hill
-- [EP-218 - How Cannabis Impacts Health & the Potential Risks - Dr. Matthew Hill](Episodes/EP-218 - How Cannabis Impacts Health and the Potential Risks - Dr. Matthew Hill/summary.md)
-
-### Dr. Matthew Johnson
-- [EP-038 - Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](Episodes/EP-038 - Psychedelics for Treating Mental Disorders - Dr. Matthew Johnson/summary.md)
-- [EP-311 - Essentials - Psychedelics for Treating Mental Disorders - Dr. Matthew Johnson](Episodes/EP-311 - Essentials - Psychedelics for Treating Mental Disorders - Dr. Matthew Johnson/summary.md)
-
-### Dr. Matthew MacDougall
-- [EP-131 - Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](Episodes/EP-131 - Neuralink and Technologies to Enhance Human Brains - Dr. Matthew MacDougall/summary.md)
-
-### Dr. Maya Shankar
-- [EP-148 - How to Shape Your Identity & Goals | Dr. Maya Shankar](Episodes/EP-148 - How to Shape Your Identity and Goals - Dr. Maya Shankar/summary.md)
-
-### Dr. Melissa Ilardo
-- [EP-294 - Behaviors That Alter Your Genes to Improve Your Health & Performance - Dr. Melissa Ilardo](Episodes/EP-294 - Behaviors That Alter Your Genes to Improve Your Health and Performance - Dr. Melissa Ilardo/summary.md)
-
-### Dr. Michael Eisenberg
-- [EP-170 - Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg](Episodes/EP-170 - Improving Male Sexual Health, Function and Fertility - Dr. Michael Eisenberg/summary.md)
-
-### Dr. Michael Kilgard
-- [EP-316 - How to Rewire Your Brain & Learn Faster - Dr. Michael Kilgard](Episodes/EP-316 - How to Rewire Your Brain and Learn Faster - Dr. Michael Kilgard/summary.md)
-
-### Dr. Michael Platt
-- [EP-265 - How to Make Better Decisions - Dr. Michael Platt](Episodes/EP-265 - How to Make Better Decisions - Dr. Michael Platt/summary.md)
-
-### Dr. Michael Snyder
-- [EP-324 - Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology - Dr. Michael Snyder](Episodes/EP-324 - Transform Your Metabolic Health and Longevity by Knowing Your Unique Biology - Dr. Michael Snyder/summary.md)
-
-### Dr. Natalie Crawford
-- [EP-171 - Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford](Episodes/EP-171 - Female Hormone Health, Fertility and Vitality - Dr. Natalie Crawford/summary.md)
-
-### Dr. Nirao Shah
-- [EP-312 - Male vs. Female Brain Differences & How They Arise From Genes & Hormones - Dr. Nirao Shah](Episodes/EP-312 - Male vs. Female Brain Differences and How They Arise From Genes and Hormones - Dr. Nirao Shah/summary.md)
-
-### Dr. Noam Sobel
-- [EP-134 - How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](Episodes/EP-134 - How Smells Influence Our Hormones, Health and Behavior - Dr. Noam Sobel/summary.md)
-
-### Dr. Nolan Williams
-- [EP-093 - Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-093 - Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
-
-### Dr. Oded Rechavi
-- [EP-123 - Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-123 - Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)
-
-### Dr. Paul Conti
-- [EP-075 - Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](Episodes/EP-075 - Therapy, Treating Trauma and Other Life Challenges - Dr. Paul Conti/summary.md)
-- [EP-363 - Essentials - Therapy, Treating Trauma & Other Life Challenges - Dr. Paul Conti](Episodes/EP-363 - Essentials - Therapy, Treating Trauma and Other Life Challenges - Dr. Paul Conti/summary.md)
-
-### Dr. Peter Attia
-- [EP-085 - Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia](Episodes/EP-085 - Exercise, Nutrition, Hormones for Vitality and Longevity - Dr. Peter Attia/summary.md)
-- [EP-126 - Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia](Episodes/EP-126 - Improve Vitality, Emotional and Physical Health and Lifespan - Dr. Peter Attia/summary.md)
-- [EP-221 - Supplements for Longevity & Their Efficacy - Dr. Peter Attia](Episodes/EP-221 - Supplements for Longevity and Their Efficacy - Dr. Peter Attia/summary.md)
-
-### Dr. Poppy Crum
-- [EP-330 - Enhance Your Learning Speed - Health Using Neuroscience Based Protocols - Dr. Poppy Crum](Episodes/EP-330 - Enhance Your Learning Speed - Health Using Neuroscience Based Protocols - Dr. Poppy Crum/summary.md)
-
-### Dr. Rena Malik
-- [EP-152 - Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](Episodes/EP-152 - Improving Sexual and Urological Health in Males and Females - Dr. Rena Malik/summary.md)
-
-### Dr. Rhonda Patrick
-- [EP-070 - Micronutrients for Health & Longevity | Dr. Rhonda Patrick](Episodes/EP-070 - Micronutrients for Health and Longevity - Dr. Rhonda Patrick/summary.md)
-- [EP-357 - Essentials - Micronutrients for Health & Longevity - Dr. Rhonda Patrick](Episodes/EP-357 - Essentials - Micronutrients for Health and Longevity - Dr. Rhonda Patrick/summary.md)
-- [EP-380 - The Best Vitality & Health Protocols - Dr. Rhonda Patrick](Episodes/EP-380 - The Best Vitality and Health Protocols - Dr. Rhonda Patrick/summary.md)
-
-### Dr. Richard Davidson
-- [EP-378 - Science-Based Meditation Tools to Improve Your Brain & Health - Dr. Richard Davidson](Episodes/EP-378 - Science-Based Meditation Tools to Improve Your Brain and Health - Dr. Richard Davidson/summary.md)
-
-### Dr. Richard Schwartz
-- [EP-269 - How to Achieve Inner Peace & Healing - Dr. Richard Schwartz](Episodes/EP-269 - How to Achieve Inner Peace and Healing - Dr. Richard Schwartz/summary.md)
-
-### Dr. Robert Lustig
-- [EP-177 - How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig](Episodes/EP-177 - How Sugar and Processed Foods Impact Your Health - Dr. Robert Lustig/summary.md)
-
-### Dr. Robert Malenka
-- [EP-146 - How Your Brain's Reward Circuits Drive Your Choices | Dr. Robert Malenka](Episodes/EP-146 - How Your Brain's Reward Circuits Drive Your Choices - Dr. Robert Malenka/summary.md)
-
-### Dr. Robert Sapolsky
-- [EP-035 - Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky](Episodes/EP-035 - Science of Stress, Testosterone and Free Will - Dr. Robert Sapolsky/summary.md)
-- [EP-307 - Essentials - Science of Stress, Testosterone, Aggression & Motivation - Dr. Robert Sapolsky](Episodes/EP-307 - Essentials - Science of Stress, Testosterone, Aggression and Motivation - Dr. Robert Sapolsky/summary.md)
-
-### Dr. Robin Carhart-Harris
-- [EP-137 - The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris](Episodes/EP-137 - The Science of Psychedelics for Mental Health - Dr. Robin Carhart-Harris/summary.md)
-
-### Dr. Roger Seheult
-- [EP-267 - How to Enhance Your Immune System - Dr. Roger Seheult](Episodes/EP-267 - How to Enhance Your Immune System - Dr. Roger Seheult/summary.md)
-
-### Dr. Sam Harris
-- [EP-107 - Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](Episodes/EP-107 - Using Meditation to Focus, View Consciousness and Expand Your Mind - Dr. Sam Harris/summary.md)
-
-### Dr. Samer Hattar
-- [EP-043 - Timing Light, Food, & Exercise for Better Sleep, Energy & Mood | Dr. Samer Hattar](Episodes/EP-043 - Timing Light, Food, and Exercise for Better Sleep, Energy and Mood - Dr. Samer Hattar/summary.md)
-- [EP-319 - Essentials - Timing Light for Better Sleep, Energy & Mood - Dr. Samer Hattar](Episodes/EP-319 - Essentials - Timing Light for Better Sleep, Energy and Mood - Dr. Samer Hattar/summary.md)
-
-### Dr. Sara Gottfried
-- [EP-114 - How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](Episodes/EP-114 - How to Optimize Female Hormone Health for Vitality and Longevity - Dr. Sara Gottfried/summary.md)
-
-### Dr. Satchin Panda
-- [EP-125 - Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](Episodes/EP-125 - Intermittent Fasting to Improve Health, Cognition and Longevity - Dr. Satchin Panda/summary.md)
-
-### Dr. Sean Mackey
-- [EP-182 - Tools to Reduce & Manage Pain | Dr. Sean Mackey](Episodes/EP-182 - Tools to Reduce and Manage Pain - Dr. Sean Mackey/summary.md)
-
-### Dr. Sergiu Pașca
-- [EP-318 - Curing Autism, Epilepsy & Schizophrenia with Stem Cells - Dr. Sergiu Pașca](Episodes/EP-318 - Curing Autism, Epilepsy and Schizophrenia with Stem Cells - Dr. Sergiu Pașca/summary.md)
-
-### Dr. Shanna Swan
-- [EP-236 - How to Safeguard Your Hormone Health & Fertility - Dr. Shanna Swan](Episodes/EP-236 - How to Safeguard Your Hormone Health and Fertility - Dr. Shanna Swan/summary.md)
-
-### Dr. Staci Whitman
-- [EP-275 - How to Improve Your Teeth & Oral Microbiome for Brain & Body Health - Dr. Staci Whitman](Episodes/EP-275 - How to Improve Your Teeth and Oral Microbiome for Brain and Body Health - Dr. Staci Whitman/summary.md)
-
-### Dr. Stacy Sims
-- [EP-220 - Female-Specific Exercise & Nutrition for Health, Performance & Longevity - Dr. Stacy Sims](Episodes/EP-220 - Female-Specific Exercise and Nutrition for Health, Performance and Longevity - Dr. Stacy Sims/summary.md)
-
-### Dr. Stuart McGill
-- [EP-219 - Build a Strong, Pain-Proof Back - Dr. Stuart McGill](Episodes/EP-219 - Build a Strong, Pain-Proof Back - Dr. Stuart McGill/summary.md)
-
-### Dr. Susanna Søberg
-- [EP-136 - How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg](Episodes/EP-136 - How to Use Cold and Heat Exposure to Improve Your Health - Dr. Susanna Søberg/summary.md)
-
-### Dr. Teo Soleymani
-- [EP-225 - How to Improve & Protect Your Skin Health & Appearance - Dr. Teo Soleymani](Episodes/EP-225 - How to Improve and Protect Your Skin Health and Appearance - Dr. Teo Soleymani/summary.md)
-
-### Dr. Terry Sejnowski
-- [EP-239 - How to Improve at Learning Using Neuroscience & AI - Dr. Terry Sejnowski](Episodes/EP-239 - How to Improve at Learning Using Neuroscience and AI - Dr. Terry Sejnowski/summary.md)
-
-### Dr. Victor Carrion
-- [EP-230 - How to Heal From Post-Traumatic Stress Disorder (PTSD) - Dr. Victor Carrion](Episodes/EP-230 - How to Heal From Post-Traumatic Stress Disorder (PTSD) - Dr. Victor Carrion/summary.md)
-
-### Dr. Vivek Murthy
-- [EP-161 - Efforts & Challenges in Promoting Public Health | Dr. Vivek Murthy](Episodes/EP-161 - Efforts and Challenges in Promoting Public Health - Dr. Vivek Murthy/summary.md)
-
-### Dr. Wendy Suzuki
-- [EP-073 - Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki](Episodes/EP-073 - Boost Attention and Memory with Science-Based Tools - Dr. Wendy Suzuki/summary.md)
-- [EP-361 - Essentials - Tools to Boost Attention & Memory - Dr. Wendy Suzuki](Episodes/EP-361 - Essentials - Tools to Boost Attention and Memory - Dr. Wendy Suzuki/summary.md)
-
-### Dr. Zachary Knight
-- [EP-215 - The Science of Hunger & Medications to Combat Obesity - Dr. Zachary Knight](Episodes/EP-215 - The Science of Hunger and Medications to Combat Obesity - Dr. Zachary Knight/summary.md)
-
-### Effects of Fasting & Time Restricted Eating on Fat Loss & Health
-- [EP-321 - Essentials - Effects of Fasting & Time Restricted Eating on Fat Loss & Health](Episodes/EP-321 - Essentials - Effects of Fasting and Time Restricted Eating on Fat Loss and Health/summary.md)
-
-### Effects of Light & Dark on Mental Health & Treatments for Cancer
-- [EP-183 - Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer](Episodes/EP-183 - Journal Club with Dr. Peter Attia - Effects of Light and Dark on Mental Health and Treatments for Cancer/summary.md)
-
-### Esther Perel
-- [EP-229 - How to Find, Build & Maintain Healthy Romantic Relationships - Esther Perel](Episodes/EP-229 - How to Find, Build and Maintain Healthy Romantic Relationships - Esther Perel/summary.md)
-
-### Food & Supplements for Brain Health & Cognitive Performance
-- [EP-325 - Essentials - Food & Supplements for Brain Health & Cognitive Performance](Episodes/EP-325 - Essentials - Food and Supplements for Brain Health and Cognitive Performance/summary.md)
 
 ### How Hearing & Balance Enhance Focus & Learning
 - [EP-289 - Essentials - How Hearing & Balance Enhance Focus & Learning](Episodes/EP-289 - Essentials - How Hearing and Balance Enhance Focus and Learning/summary.md)
@@ -701,24 +459,97 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-077 - The Science & Practice of Movement | Ido Portal](Episodes/EP-077 - The Science and Practice of Movement - Ido Portal/summary.md)
 - [EP-367 - Essentials - The Science & Practice of Movement - Ido Portal](Episodes/EP-367 - Essentials - The Science and Practice of Movement - Ido Portal/summary.md)
 
+### Dr. Jack Feldman
+- [EP-054 - Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](Episodes/EP-054 - Breathing for Mental and Physical Health and Performance - Dr. Jack Feldman/summary.md)
+- [EP-343 - Essentials - Breathing for Mental & Physical Health & Performance](Episodes/EP-343 - Essentials - Breathing for Mental and Physical Health and Performance/summary.md)
+
 ### James Clear
 - [EP-358 - Best Ways to Build Better Habits & Break Bad Ones - James Clear](Episodes/EP-358 - Best Ways to Build Better Habits and Break Bad Ones - James Clear/summary.md)
 
+### Dr. James Hollis
+- [EP-208 - How to Find Your True Purpose & Create Your Best Life - Dr. James Hollis](Episodes/EP-208 - How to Find Your True Purpose and Create Your Best Life - Dr. James Hollis/summary.md)
+
 ### James Sexton
 - [EP-288 - Contracts of Love & Money That Make or Break Relationships - James Sexton](Episodes/EP-288 - Contracts of Love and Money That Make or Break Relationships - James Sexton/summary.md)
+
+### Dr. Jamil Zaki
+- [EP-227 - How to Cultivate a Positive, Growth-Oriented Mindset - Dr. Jamil Zaki](Episodes/EP-227 - How to Cultivate a Positive, Growth-Oriented Mindset - Dr. Jamil Zaki/summary.md)
+
+### Dr. Jay Bhattacharya
+- [EP-298 - Improving Science & Restoring Trust in Public Health - Dr. Jay Bhattacharya](Episodes/EP-298 - Improving Science and Restoring Trust in Public Health - Dr. Jay Bhattacharya/summary.md)
 
 ### Jeff Cavaliere
 - [EP-079 - Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](Episodes/EP-079 - Optimize Your Exercise Program with Science-Based Tools - Jeff Cavaliere/summary.md)
 - [EP-371 - Essentials - Optimize Your Exercise Program with Science-Based Tools - Jeff Cavaliere](Episodes/EP-371 - Essentials - Optimize Your Exercise Program with Science-Based Tools - Jeff Cavaliere/summary.md)
 
+### Dr. Jeffrey Goldberg
+- [EP-144 - How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](Episodes/EP-144 - How to Improve Your Eye Health and Offset Vision Loss - Dr. Jeffrey Goldberg/summary.md)
+
+### Dr. Jennifer Groh
+- [EP-342 - How Your Thoughts Are Built & How You Can Shape Them - Dr. Jennifer Groh](Episodes/EP-342 - How Your Thoughts Are Built and How You Can Shape Them - Dr. Jennifer Groh/summary.md)
+
 ### Jocko Willink
 - [EP-106 - How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](Episodes/EP-106 - How to Become Resilient, Forge Your Identity and Lead Others - Jocko Willink/summary.md)
+
+### Dr. John Kruse
+- [EP-271 - Improve Focus with Behavioral Tools & Medication for ADHD - Dr. John Kruse](Episodes/EP-271 - Improve Focus with Behavioral Tools and Medication for ADHD - Dr. John Kruse/summary.md)
+
+### Dr. Jonathan Haidt
+- [EP-214 - How Smartphones & Social Media Impact Mental Health & the Realistic Solutions - Dr. Jonathan Haidt](Episodes/EP-214 - How Smartphones and Social Media Impact Mental Health and the Realistic Solutions - Dr. Jonathan Haidt/summary.md)
+
+### Dr. Jordan Peterson
+- [EP-251 - How to Best Guide Your Life Decisions & Path - Dr. Jordan Peterson](Episodes/EP-251 - How to Best Guide Your Life Decisions and Path - Dr. Jordan Peterson/summary.md)
 
 ### Josh Waitzkin
 - [EP-259 - The Art of Learning & Living Life - Josh Waitzkin](Episodes/EP-259 - The Art of Learning and Living Life - Josh Waitzkin/summary.md)
 
+### Dr. Justin Sonnenburg
+- [EP-062 - How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](Episodes/EP-062 - How to Build, Maintain and Repair Gut Health - Dr. Justin Sonnenburg/summary.md)
+- [EP-351 - Essentials - Build a Healthy Gut Microbiome](Episodes/EP-351 - Essentials - Build a Healthy Gut Microbiome/summary.md)
+
+### Dr. Karen Parker
+- [EP-176 - The Causes & Treatments for Autism | Dr. Karen Parker](Episodes/EP-176 - The Causes and Treatments for Autism - Dr. Karen Parker/summary.md)
+
+### Dr. Karl Deisseroth
+- [EP-026 - Understanding & Healing the Mind | Dr. Karl Deisseroth](Episodes/EP-026 - Understanding and Healing the Mind - Dr. Karl Deisseroth/summary.md)
+- [EP-291 - Essentials - Understanding & Healing the Mind - Dr. Karl Deisseroth](Episodes/EP-291 - Essentials - Understanding and Healing the Mind - Dr. Karl Deisseroth/summary.md)
+
+### Dr. Karolina Westlund
+- [EP-286 - What Pets Actually Want & Need - Dr. Karolina Westlund](Episodes/EP-286 - What Pets Actually Want and Need - Dr. Karolina Westlund/summary.md)
+
+### Dr. Kathryn Paige Harden
+- [EP-368 - How Genes Shape Your Risk Taking & Morals - Dr. Kathryn Paige Harden](Episodes/EP-368 - How Genes Shape Your Risk Taking and Morals - Dr. Kathryn Paige Harden/summary.md)
+
+### Dr. Kay Tye
+- [EP-186 - The Biology of Social Interactions & Emotions | Dr. Kay Tye](Episodes/EP-186 - The Biology of Social Interactions and Emotions - Dr. Kay Tye/summary.md)
+
+### Dr. Kelly Starrett
+- [EP-245 - How to Improve Your Mobility, Posture & Flexibility - Dr. Kelly Starrett](Episodes/EP-245 - How to Improve Your Mobility, Posture and Flexibility - Dr. Kelly Starrett/summary.md)
+
+### Dr. Konstantina Stankovic
+- [EP-334 - Protect & Improve Your Hearing & Brain Health - Dr. Konstantina Stankovic](Episodes/EP-334 - Protect and Improve Your Hearing and Brain Health - Dr. Konstantina Stankovic/summary.md)
+
+### Dr. Kyle Gillett
+- [EP-067 - How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](Episodes/EP-067 - How to Optimize Your Hormones for Health and Vitality - Dr. Kyle Gillett/summary.md)
+- [EP-104 - Tools for Hormone Optimization in Males | Dr. Kyle Gillett](Episodes/EP-104 - Tools for Hormone Optimization in Males - Dr. Kyle Gillett/summary.md)
+- [EP-355 - Essentials - How to Optimize Your Hormones for Health & Vitality](Episodes/EP-355 - Essentials - How to Optimize Your Hormones for Health and Vitality/summary.md)
+
+### Dr. Laurie Santos
+- [EP-249 - How to Achieve True Happiness Using Science-Based Protocols - Dr. Laurie Santos](Episodes/EP-249 - How to Achieve True Happiness Using Science-Based Protocols - Dr. Laurie Santos/summary.md)
+
+### Dr. Layne Norton
+- [EP-098 - The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](Episodes/EP-098 - The Science of Eating for Health, Fat Loss and Lean Muscle - Dr. Layne Norton/summary.md)
+- [EP-224 - Tools for Nutrition & Fitness - Dr. Layne Norton](Episodes/EP-224 - Tools for Nutrition and Fitness - Dr. Layne Norton/summary.md)
+
+### Dr. Lex Fridman
+- [EP-029 - Machines, Creativity & Love | Dr. Lex Fridman](Episodes/EP-029 - Machines, Creativity and Love - Dr. Lex Fridman/summary.md)
+- [EP-295 - Essentials - Machines, Creativity & Love - Dr. Lex Fridman](Episodes/EP-295 - Essentials - Machines, Creativity and Love - Dr. Lex Fridman/summary.md)
+
 ### Like Chemicals Control You
 - [EP-025 - How Smell, Taste & Pheromone-Like Chemicals Control You](Episodes/EP-025 - How Smell, Taste and Pheromone-Like Chemicals Control You/summary.md)
+
+### Dr. Lisa Feldman Barrett
+- [EP-166 - How to Understand Emotions | Dr. Lisa Feldman Barrett](Episodes/EP-166 - How to Understand Emotions - Dr. Lisa Feldman Barrett/summary.md)
 
 ### Lori Gottlieb
 - [EP-279 - How to Find & Be a Great Romantic Partner - Lori Gottlieb](Episodes/EP-279 - How to Find and Be a Great Romantic Partner - Lori Gottlieb/summary.md)
@@ -726,17 +557,64 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Marc Andreessen
 - [EP-155 - How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen](Episodes/EP-155 - How Risk Taking, Innovation and Artificial Intelligence Transform Human Experience - Marc Andreessen/summary.md)
 
+### Dr. Marc Berman
+- [EP-308 - How Nature & Other Physical Environments Impact Your Focus, Cognition & Health - Dr. Marc Berman](Episodes/EP-308 - How Nature and Other Physical Environments Impact Your Focus, Cognition and Health - Dr. Marc Berman/summary.md)
+
+### Dr. Marc Brackett
+- [EP-228 - How to Increase Your Emotional Intelligence - Dr. Marc Brackett](Episodes/EP-228 - How to Increase Your Emotional Intelligence - Dr. Marc Brackett/summary.md)
+- [EP-387 - How to Better Regulate Your Emotions - Dr. Marc Brackett](Episodes/EP-387 - How to Better Regulate Your Emotions - Dr. Marc Brackett/summary.md)
+
+### Dr. Marc Breedlove
+- [EP-382 - How Hormones Shape Sexual Orientation & Behavior - Dr. Marc Breedlove](Episodes/EP-382 - How Hormones Shape Sexual Orientation and Behavior - Dr. Marc Breedlove/summary.md)
+
+### Dr. Mark D'Esposito
+- [EP-188 - How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito](Episodes/EP-188 - How to Optimize Cognitive Function and Brain Health - Dr. Mark D'Esposito/summary.md)
+
 ### Mark Zuckerberg & Dr. Priscilla Chan
 - [EP-167 - Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan](Episodes/EP-167 - Curing All Human Diseases and the Future of Health and Technology - Mark Zuckerberg and Dr. Priscilla Chan/summary.md)
+
+### Dr. Martha Beck
+- [EP-223 - Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination - Dr. Martha Beck](Episodes/EP-223 - Access Your Best Self With Mind-Body Practices, Belief Testing and Imagination - Dr. Martha Beck/summary.md)
+
+### Dr. Martin Picard
+- [EP-352 - Improve Energy & Longevity by Optimizing Mitochondria - Dr. Martin Picard](Episodes/EP-352 - Improve Energy and Longevity by Optimizing Mitochondria - Dr. Martin Picard/summary.md)
+
+### Dr. Mary Claire Haver
+- [EP-212 - How to Navigate Menopause & Perimenopause for Maximum Health & Vitality - Dr. Mary Claire Haver](Episodes/EP-212 - How to Navigate Menopause and Perimenopause for Maximum Health and Vitality - Dr. Mary Claire Haver/summary.md)
+
+### Dr. Mary Helen Immordino-Yang
+- [EP-140 - How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](Episodes/EP-140 - How Emotions and Social Factors Impact Learning - Dr. Mary Helen Immordino-Yang/summary.md)
+
+### Dr. Mary-Frances O'Connor
+- [EP-296 - Healing From Grief & Loss - Dr. Mary-Frances O'Connor](Episodes/EP-296 - Healing From Grief and Loss - Dr. Mary-Frances O'Connor/summary.md)
 
 ### Matt Abrahams
 - [EP-344 - How to Speak Clearly & With Confidence - Matt Abrahams](Episodes/EP-344 - How to Speak Clearly and With Confidence - Matt Abrahams/summary.md)
 
+### Dr. Matt Walker
+- [EP-031 - The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](Episodes/EP-031 - The Science and Practice of Perfecting Your Sleep - Dr. Matt Walker/summary.md)
+
 ### Matt Walker
 - [EP-299 - Essentials - The Science & Practice of Perfecting Your Sleep - Matt Walker](Episodes/EP-299 - Essentials - The Science and Practice of Perfecting Your Sleep - Matt Walker/summary.md)
 
+### Dr. Matthew Hill
+- [EP-218 - How Cannabis Impacts Health & the Potential Risks - Dr. Matthew Hill](Episodes/EP-218 - How Cannabis Impacts Health and the Potential Risks - Dr. Matthew Hill/summary.md)
+
+### Dr. Matthew Johnson
+- [EP-038 - Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](Episodes/EP-038 - Psychedelics for Treating Mental Disorders - Dr. Matthew Johnson/summary.md)
+- [EP-311 - Essentials - Psychedelics for Treating Mental Disorders - Dr. Matthew Johnson](Episodes/EP-311 - Essentials - Psychedelics for Treating Mental Disorders - Dr. Matthew Johnson/summary.md)
+
+### Dr. Matthew MacDougall
+- [EP-131 - Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](Episodes/EP-131 - Neuralink and Technologies to Enhance Human Brains - Dr. Matthew MacDougall/summary.md)
+
 ### Maximize Productivity, Physical & Mental Health With Daily Tools
 - [EP-293 - Essentials - Maximize Productivity, Physical & Mental Health With Daily Tools](Episodes/EP-293 - Essentials - Maximize Productivity, Physical and Mental Health With Daily Tools/summary.md)
+
+### Dr. Maya Shankar
+- [EP-148 - How to Shape Your Identity & Goals | Dr. Maya Shankar](Episodes/EP-148 - How to Shape Your Identity and Goals - Dr. Maya Shankar/summary.md)
+
+### Dr. Melissa Ilardo
+- [EP-294 - Behaviors That Alter Your Genes to Improve Your Health & Performance - Dr. Melissa Ilardo](Episodes/EP-294 - Behaviors That Alter Your Genes to Improve Your Health and Performance - Dr. Melissa Ilardo/summary.md)
 
 ### Metformin for Longevity & The Power of Belief Effects
 - [EP-157 - Journal Club with Dr. Peter Attia | Metformin for Longevity & The Power of Belief Effects](Episodes/EP-157 - Journal Club with Dr. Peter Attia - Metformin for Longevity and The Power of Belief Effects/summary.md)
@@ -744,14 +622,73 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Michael Easter
 - [EP-300 - How to Grow From Doing Hard Things - Michael Easter](Episodes/EP-300 - How to Grow From Doing Hard Things - Michael Easter/summary.md)
 
+### Dr. Michael Eisenberg
+- [EP-170 - Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg](Episodes/EP-170 - Improving Male Sexual Health, Function and Fertility - Dr. Michael Eisenberg/summary.md)
+
+### Dr. Michael Kilgard
+- [EP-316 - How to Rewire Your Brain & Learn Faster - Dr. Michael Kilgard](Episodes/EP-316 - How to Rewire Your Brain and Learn Faster - Dr. Michael Kilgard/summary.md)
+
+### Dr. Michael Platt
+- [EP-265 - How to Make Better Decisions - Dr. Michael Platt](Episodes/EP-265 - How to Make Better Decisions - Dr. Michael Platt/summary.md)
+
+### Dr. Michael Snyder
+- [EP-324 - Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology - Dr. Michael Snyder](Episodes/EP-324 - Transform Your Metabolic Health and Longevity by Knowing Your Unique Biology - Dr. Michael Snyder/summary.md)
+
 ### Morgan Housel
 - [EP-243 - Understand & Apply the Psychology of Money to Gain Greater Happiness - Morgan Housel](Episodes/EP-243 - Understand and Apply the Psychology of Money to Gain Greater Happiness - Morgan Housel/summary.md)
+
+### Dr. Natalie Crawford
+- [EP-171 - Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford](Episodes/EP-171 - Female Hormone Health, Fertility and Vitality - Dr. Natalie Crawford/summary.md)
+
+### Dr. Natalie Crawford, MD — Double board-certified physician in obstetrics/gynecology, fertility, and reproductive health
+- [EP-391 - How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford](Episodes/EP-391 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
+
+### Dr. Nirao Shah
+- [EP-312 - Male vs. Female Brain Differences & How They Arise From Genes & Hormones - Dr. Nirao Shah](Episodes/EP-312 - Male vs. Female Brain Differences and How They Arise From Genes and Hormones - Dr. Nirao Shah/summary.md)
+
+### Dr. Noam Sobel
+- [EP-134 - How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](Episodes/EP-134 - How Smells Influence Our Hormones, Health and Behavior - Dr. Noam Sobel/summary.md)
+
+### Dr. Nolan Williams
+- [EP-093 - Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-093 - Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
+
+### Dr. Oded Rechavi
+- [EP-123 - Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-123 - Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)
+
+### Dr. Paul Conti
+- [EP-075 - Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](Episodes/EP-075 - Therapy, Treating Trauma and Other Life Challenges - Dr. Paul Conti/summary.md)
+- [EP-363 - Essentials - Therapy, Treating Trauma & Other Life Challenges - Dr. Paul Conti](Episodes/EP-363 - Essentials - Therapy, Treating Trauma and Other Life Challenges - Dr. Paul Conti/summary.md)
+
+### Dr. Paul Conti, MD, Psychiatrist
+- [EP-392 - Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
 
 ### Pavel Tsatsouline
 - [EP-263 - How to Build Strength, Endurance & Flexibility at Any Age - Pavel Tsatsouline](Episodes/EP-263 - How to Build Strength, Endurance and Flexibility at Any Age - Pavel Tsatsouline/summary.md)
 
+### Dr. Peter Attia
+- [EP-085 - Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia](Episodes/EP-085 - Exercise, Nutrition, Hormones for Vitality and Longevity - Dr. Peter Attia/summary.md)
+- [EP-126 - Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia](Episodes/EP-126 - Improve Vitality, Emotional and Physical Health and Lifespan - Dr. Peter Attia/summary.md)
+- [EP-221 - Supplements for Longevity & Their Efficacy - Dr. Peter Attia](Episodes/EP-221 - Supplements for Longevity and Their Efficacy - Dr. Peter Attia/summary.md)
+
+### Dr. Poppy Crum
+- [EP-330 - Enhance Your Learning Speed - Health Using Neuroscience Based Protocols - Dr. Poppy Crum](Episodes/EP-330 - Enhance Your Learning Speed - Health Using Neuroscience Based Protocols - Dr. Poppy Crum/summary.md)
+
 ### Protocols to Improve Vision & Eyesight
 - [EP-284 - Essentials - Protocols to Improve Vision & Eyesight](Episodes/EP-284 - Essentials - Protocols to Improve Vision and Eyesight/summary.md)
+
+### Dr. Rena Malik
+- [EP-152 - Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](Episodes/EP-152 - Improving Sexual and Urological Health in Males and Females - Dr. Rena Malik/summary.md)
+
+### Dr. Rhonda Patrick
+- [EP-070 - Micronutrients for Health & Longevity | Dr. Rhonda Patrick](Episodes/EP-070 - Micronutrients for Health and Longevity - Dr. Rhonda Patrick/summary.md)
+- [EP-357 - Essentials - Micronutrients for Health & Longevity - Dr. Rhonda Patrick](Episodes/EP-357 - Essentials - Micronutrients for Health and Longevity - Dr. Rhonda Patrick/summary.md)
+- [EP-380 - The Best Vitality & Health Protocols - Dr. Rhonda Patrick](Episodes/EP-380 - The Best Vitality and Health Protocols - Dr. Rhonda Patrick/summary.md)
+
+### Dr. Richard Davidson
+- [EP-378 - Science-Based Meditation Tools to Improve Your Brain & Health - Dr. Richard Davidson](Episodes/EP-378 - Science-Based Meditation Tools to Improve Your Brain and Health - Dr. Richard Davidson/summary.md)
+
+### Dr. Richard Schwartz
+- [EP-269 - How to Achieve Inner Peace & Healing - Dr. Richard Schwartz](Episodes/EP-269 - How to Achieve Inner Peace and Healing - Dr. Richard Schwartz/summary.md)
 
 ### Rick Rubin
 - [EP-110 - How to Access Your Creativity | Rick Rubin](Episodes/EP-110 - How to Access Your Creativity - Rick Rubin/summary.md)
@@ -760,11 +697,61 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Robert Greene
 - [EP-175 - A Process for Finding & Achieving Your Unique Purpose | Robert Greene](Episodes/EP-175 - A Process for Finding and Achieving Your Unique Purpose - Robert Greene/summary.md)
 
+### Dr. Robert Lustig
+- [EP-177 - How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig](Episodes/EP-177 - How Sugar and Processed Foods Impact Your Health - Dr. Robert Lustig/summary.md)
+
+### Dr. Robert Malenka
+- [EP-146 - How Your Brain's Reward Circuits Drive Your Choices | Dr. Robert Malenka](Episodes/EP-146 - How Your Brain's Reward Circuits Drive Your Choices - Dr. Robert Malenka/summary.md)
+
+### Dr. Robert Sapolsky
+- [EP-035 - Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky](Episodes/EP-035 - Science of Stress, Testosterone and Free Will - Dr. Robert Sapolsky/summary.md)
+- [EP-307 - Essentials - Science of Stress, Testosterone, Aggression & Motivation - Dr. Robert Sapolsky](Episodes/EP-307 - Essentials - Science of Stress, Testosterone, Aggression and Motivation - Dr. Robert Sapolsky/summary.md)
+
+### Dr. Robin Carhart-Harris
+- [EP-137 - The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris](Episodes/EP-137 - The Science of Psychedelics for Mental Health - Dr. Robin Carhart-Harris/summary.md)
+
+### Dr. Roger Seheult
+- [EP-267 - How to Enhance Your Immune System - Dr. Roger Seheult](Episodes/EP-267 - How to Enhance Your Immune System - Dr. Roger Seheult/summary.md)
+
 ### Ryan Soave
 - [EP-283 - Tools for Overcoming Substance & Behavioral Addictions - Ryan Soave](Episodes/EP-283 - Tools for Overcoming Substance and Behavioral Addictions - Ryan Soave/summary.md)
 
+### Dr. Sam Harris
+- [EP-107 - Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](Episodes/EP-107 - Using Meditation to Focus, View Consciousness and Expand Your Mind - Dr. Sam Harris/summary.md)
+
+### Dr. Samer Hattar
+- [EP-043 - Timing Light, Food, & Exercise for Better Sleep, Energy & Mood | Dr. Samer Hattar](Episodes/EP-043 - Timing Light, Food, and Exercise for Better Sleep, Energy and Mood - Dr. Samer Hattar/summary.md)
+- [EP-319 - Essentials - Timing Light for Better Sleep, Energy & Mood - Dr. Samer Hattar](Episodes/EP-319 - Essentials - Timing Light for Better Sleep, Energy and Mood - Dr. Samer Hattar/summary.md)
+
+### Dr. Sara Gottfried
+- [EP-114 - How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](Episodes/EP-114 - How to Optimize Female Hormone Health for Vitality and Longevity - Dr. Sara Gottfried/summary.md)
+
+### Dr. Satchin Panda
+- [EP-125 - Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](Episodes/EP-125 - Intermittent Fasting to Improve Health, Cognition and Longevity - Dr. Satchin Panda/summary.md)
+
+### Scott Galloway, Professor at New York University's Stern School of Business
+- [EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](Episodes/EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life - Scott Galloway/summary.md)
+
+### Dr. Sean Mackey
+- [EP-182 - Tools to Reduce & Manage Pain | Dr. Sean Mackey](Episodes/EP-182 - Tools to Reduce and Manage Pain - Dr. Sean Mackey/summary.md)
+
+### Dr. Sergiu Pașca
+- [EP-318 - Curing Autism, Epilepsy & Schizophrenia with Stem Cells - Dr. Sergiu Pașca](Episodes/EP-318 - Curing Autism, Epilepsy and Schizophrenia with Stem Cells - Dr. Sergiu Pașca/summary.md)
+
+### Dr. Shanna Swan
+- [EP-236 - How to Safeguard Your Hormone Health & Fertility - Dr. Shanna Swan](Episodes/EP-236 - How to Safeguard Your Hormone Health and Fertility - Dr. Shanna Swan/summary.md)
+
+### Dr. Staci Whitman
+- [EP-275 - How to Improve Your Teeth & Oral Microbiome for Brain & Body Health - Dr. Staci Whitman](Episodes/EP-275 - How to Improve Your Teeth and Oral Microbiome for Brain and Body Health - Dr. Staci Whitman/summary.md)
+
+### Dr. Stacy Sims
+- [EP-220 - Female-Specific Exercise & Nutrition for Health, Performance & Longevity - Dr. Stacy Sims](Episodes/EP-220 - Female-Specific Exercise and Nutrition for Health, Performance and Longevity - Dr. Stacy Sims/summary.md)
+
 ### Steven Pressfield
 - [EP-336 - How to Overcome Inner Resistance - Steven Pressfield](Episodes/EP-336 - How to Overcome Inner Resistance - Steven Pressfield/summary.md)
+
+### Dr. Stuart McGill
+- [EP-219 - Build a Strong, Pain-Proof Back - Dr. Stuart McGill](Episodes/EP-219 - Build a Strong, Pain-Proof Back - Dr. Stuart McGill/summary.md)
 
 ### Supercharge Exercise Performance & Recovery with Cooling
 - [EP-274 - Essentials - Supercharge Exercise Performance & Recovery with Cooling](Episodes/EP-274 - Essentials - Supercharge Exercise Performance and Recovery with Cooling/summary.md)
@@ -778,11 +765,20 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Supported Tools to Accelerate Your Fitness Goals
 - [EP-145 - Science-Supported Tools to Accelerate Your Fitness Goals](Episodes/EP-145 - Science-Supported Tools to Accelerate Your Fitness Goals/summary.md)
 
+### Dr. Susanna Søberg
+- [EP-136 - How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg](Episodes/EP-136 - How to Use Cold and Heat Exposure to Improve Your Health - Dr. Susanna Søberg/summary.md)
+
+### Dr. Teo Soleymani
+- [EP-225 - How to Improve & Protect Your Skin Health & Appearance - Dr. Teo Soleymani](Episodes/EP-225 - How to Improve and Protect Your Skin Health and Appearance - Dr. Teo Soleymani/summary.md)
+
 ### Term Effects
 - [EP-138 - Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects](Episodes/EP-138 - Adderall, Stimulants and Modafinil for ADHD: Short- and Long-Term Effects/summary.md)
 
 ### Terry Real
 - [EP-356 - Defining Healthy Masculinity & How to Build It - Terry Real](Episodes/EP-356 - Defining Healthy Masculinity and How to Build It - Terry Real/summary.md)
+
+### Dr. Terry Sejnowski
+- [EP-239 - How to Improve at Learning Using Neuroscience & AI - Dr. Terry Sejnowski](Episodes/EP-239 - How to Improve at Learning Using Neuroscience and AI - Dr. Terry Sejnowski/summary.md)
 
 ### The Science of Emotions & Relationships
 - [EP-262 - Essentials - The Science of Emotions & Relationships](Episodes/EP-262 - Essentials - The Science of Emotions and Relationships/summary.md)
@@ -808,15 +804,24 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 ### Using Science to Optimize Sleep, Learning & Metabolism
 - [EP-242 - Essentials - Using Science to Optimize Sleep, Learning & Metabolism](Episodes/EP-242 - Essentials - Using Science to Optimize Sleep, Learning and Metabolism/summary.md)
 
+### Dr. Victor Carrion
+- [EP-230 - How to Heal From Post-Traumatic Stress Disorder (PTSD) - Dr. Victor Carrion](Episodes/EP-230 - How to Heal From Post-Traumatic Stress Disorder (PTSD) - Dr. Victor Carrion/summary.md)
+
+### Dr. Vivek Murthy
+- [EP-161 - Efforts & Challenges in Promoting Public Health | Dr. Vivek Murthy](Episodes/EP-161 - Efforts and Challenges in Promoting Public Health - Dr. Vivek Murthy/summary.md)
+
 ### Wake Timing
 - [EP-084 - Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing](Episodes/EP-084 - Sleep Toolkit: Tools for Optimizing Sleep and Sleep-Wake Timing/summary.md)
 
+### Dr. Wendy Suzuki
+- [EP-073 - Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki](Episodes/EP-073 - Boost Attention and Memory with Science-Based Tools - Dr. Wendy Suzuki/summary.md)
+- [EP-361 - Essentials - Tools to Boost Attention & Memory - Dr. Wendy Suzuki](Episodes/EP-361 - Essentials - Tools to Boost Attention and Memory - Dr. Wendy Suzuki/summary.md)
 
-### Scott Galloway, Professor at New York University's Stern School of Business
-- [EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](Episodes/EP-389 - Male Roles, Obligations and Options for Building a Fulfilling Life - Scott Galloway/summary.md)
+### Dr. Zachary Knight
+- [EP-215 - The Science of Hunger & Medications to Combat Obesity - Dr. Zachary Knight](Episodes/EP-215 - The Science of Hunger and Medications to Combat Obesity - Dr. Zachary Knight/summary.md)
 
-### Dr. Natalie Crawford, MD — Double board-certified physician in obstetrics/gynecology, fertility, and reproductive health
-- [EP-391 - How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford](Episodes/EP-391 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
+### Dr. Casey Halpern, Chief of Stereotactic Functional Neurosurgery
+- [EP-402 - Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern](Episodes/EP-402 - Essentials Compulsive Behaviors and Deep Brain Stimulation - Dr. Casey Halpern/summary.md)
 
-### Dr. Paul Conti, MD, Psychiatrist
-- [EP-392 - Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
+### Dr. Kentaro Fujita, Professor of Psychology at Ohio State University
+- [EP-403 - Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
