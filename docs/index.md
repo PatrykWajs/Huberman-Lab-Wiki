@@ -4,7 +4,7 @@ title: Home
 
 # Huberman Lab Wiki
 
-The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **403 episodes**.
+The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **404 episodes**.
 
 Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 ## 🎬 Latest Episode
 
-**EP-403 — Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita** *(May 11, 2026)*
+**EP-404 — Understanding & Controlling Aggression | Huberman Lab Essentials** *(May 14, 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/e89rVf4Pf0k" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/916vhhUsmgE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-404 - Understanding and Controlling Aggression/summary.md)
 
 ---
 
@@ -98,7 +98,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 403 |
+| **Total Episodes** | 404 |
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |

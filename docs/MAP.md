@@ -436,3 +436,4 @@
 - [EP-392 - Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
 - [EP-402 - Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern](Episodes/EP-402 - Essentials Compulsive Behaviors and Deep Brain Stimulation - Dr. Casey Halpern/summary.md)
 - [EP-403 - Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
+- [EP-404 - Understanding &amp; Controlling Aggression | Huberman Lab Essentials](Episodes/EP-404 - Understanding and Controlling Aggression/summary.md)

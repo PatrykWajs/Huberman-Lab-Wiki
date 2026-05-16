@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A static MkDocs website containing summaries + full transcripts for 397 Huberman Lab episodes, deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
+A static MkDocs website containing summaries + full transcripts for 403 Huberman Lab episodes (as of 2026-05-12), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
 
 **Live site:** https://patrykwajs.github.io/Huberman-Lab-Wiki/
 **GitHub repo:** https://github.com/PatrykWajs/Huberman-Lab-Wiki
@@ -446,3 +446,9 @@ MkDocs build produces INFO-level anchor warnings for EP-384 and EP-385 transcrip
 | April 2026 | EP-387 added — How to Better Regulate Your Emotions - Dr. Marc Brackett |
 | April 2026 | EP-388 added — Essentials: The Neuroscience of Speech, Language and Music - Dr. Erich Jarvis |
 | April 2026 | Homepage updated: 397 count, Latest Episode YouTube embed updated |
+| May 2026 | EP-389 through EP-401 added — including renumbered LIVE EVENT Q&A / AMA batch (EP-393–401, originally EP-326–334) |
+| 2026-05-12 | EP-402 (Essentials: Compulsive Behaviors & Deep Brain Stimulation — Dr. Casey Halpern) + EP-403 (Master Self Control & Overcome Procrastination — Dr. Kentaro Fujita) added via `pipeline.py` (Tier 1 YouTubeTranscriptApi worked first try — no CDP needed). Homepage bumped 401 → 403, social card regenerated. |
+
+## Lab Notes (Most Recent First)
+
+- **2026-05-12 — Tier 1 (`pipeline.py --video`) works again.** Both EP-402 and EP-403 fetched cleanly via `YouTubeTranscriptApi` without IP block. The old "Tier 1 always IP-blocked, use `fetch_cdp.py`" rule is no longer accurate — try `pipeline.py` first, drop to CDP only on `IpBlocked` / `TranscriptsDisabled`. Note: `yt-dlp` channel scraping for `wiki-update-check` still warns "cookies no longer valid" but `--flat-playlist` returns video metadata anyway; `cookies.txt` refresh only matters when transcripts need yt-dlp (Tier 2) or when full channel data with auth is needed.
