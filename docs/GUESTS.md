@@ -825,3 +825,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Kentaro Fujita, Professor of Psychology at Ohio State University
 - [EP-403 - Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
+
+### Dr. Nick Epley, Behavioral Scientist, University of Chicago
+- [EP-405 - How to Overcome Social Anxiety | Dr. Nick Epley](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
