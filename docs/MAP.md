@@ -437,3 +437,4 @@
 - [EP-402 - Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern](Episodes/EP-402 - Essentials Compulsive Behaviors and Deep Brain Stimulation - Dr. Casey Halpern/summary.md)
 - [EP-403 - Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
 - [EP-404 - Understanding &amp; Controlling Aggression | Huberman Lab Essentials](Episodes/EP-404 - Understanding and Controlling Aggression/summary.md)
+- [EP-405 - How to Overcome Social Anxiety | Dr. Nick Epley](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
