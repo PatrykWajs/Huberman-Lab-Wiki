@@ -438,3 +438,4 @@
 - [EP-403 - Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
 - [EP-404 - Understanding &amp; Controlling Aggression | Huberman Lab Essentials](Episodes/EP-404 - Understanding and Controlling Aggression/summary.md)
 - [EP-405 - How to Overcome Social Anxiety | Dr. Nick Epley](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
+- [EP-406 - Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)

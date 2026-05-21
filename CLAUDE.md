@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A static MkDocs website containing summaries + full transcripts for 403 Huberman Lab episodes (as of 2026-05-12), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
+A static MkDocs website containing summaries + full transcripts for 406 Huberman Lab episodes (as of 2026-05-21), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
 
 **Live site:** https://patrykwajs.github.io/Huberman-Lab-Wiki/
 **GitHub repo:** https://github.com/PatrykWajs/Huberman-Lab-Wiki
@@ -448,7 +448,31 @@ MkDocs build produces INFO-level anchor warnings for EP-384 and EP-385 transcrip
 | April 2026 | Homepage updated: 397 count, Latest Episode YouTube embed updated |
 | May 2026 | EP-389 through EP-401 added — including renumbered LIVE EVENT Q&A / AMA batch (EP-393–401, originally EP-326–334) |
 | 2026-05-12 | EP-402 (Essentials: Compulsive Behaviors & Deep Brain Stimulation — Dr. Casey Halpern) + EP-403 (Master Self Control & Overcome Procrastination — Dr. Kentaro Fujita) added via `pipeline.py` (Tier 1 YouTubeTranscriptApi worked first try — no CDP needed). Homepage bumped 401 → 403, social card regenerated. |
+| 2026-05-16 | EP-404 (Essentials: Understanding & Controlling Aggression — solo, no guest) added via `pipeline.py`. Tier 1 first-try win #3. `detect_episode_number()` confirmed renumber-safe. Solo Essentials handling verified: pipeline logged `Guest: None` and correctly skipped GUESTS.md. Homepage bumped 403 → 404, social card regenerated. Workspace-root CLAUDE/AGENTS/GEMINI trio re-synced. Commit `df7487a`. |
+| 2026-05-18 | EP-405 (How to Overcome Social Anxiety — Dr. Nick Epley, Behavioral Scientist, University of Chicago) added via `pipeline.py`. Tier 1 first-try win #4. Named-guest path exercised: pipeline auto-updated GUESTS.md with the Epley entry alongside MAP/Conclusions writes. Homepage bumped 404 → 405, social card regenerated. Workspace-root trio re-synced. Commit `746db4a`. |
+
+## Episode Add Log — May 2026 Streak
+
+Quick-reference table mirroring the workspace-root trio. Use for predicting runtime and Conclusions coverage on the next add.
+
+| Date | EP | Video ID | Title | Guest | Segments | Conclusions touched | Commit |
+|---|---|---|---|---|---|---|---|
+| 2026-05-12 | 402 | `aKDzF_fMMrc` | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern | 909 | the-brain-and-neuroplasticity, how-to-regulate-your-nervous-system | `0f13f17` |
+| 2026-05-12 | 403 | `e89rVf4Pf0k` | Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita | 4,282 | achieving-goals-and-building-habits, mental-health, how-to-regulate-your-nervous-system, the-brain-and-neuroplasticity | `0f13f17` |
+| 2026-05-16 | 404 | `916vhhUsmgE` | Understanding & Controlling Aggression (Essentials) | None (solo) | 910 | hormone-health, the-brain-and-neuroplasticity, how-to-regulate-your-nervous-system, light-exposure-and-circadian-rhythm, emotional-intelligence-and-relationships, supplementation | `df7487a` |
+| 2026-05-18 | 405 | `Q2hOryHdgAk` | How to Overcome Social Anxiety | Dr. Nick Epley | 4,478 | emotional-intelligence-and-relationships, happiness-and-wellbeing, society-and-technology | `746db4a` |
+| 2026-05-21 | 406 | `MOPqSEK6GvA` | Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang | 739 | the-brain-and-neuroplasticity, general-health, society-and-technology | pending |
+
+**Patterns (4-run sample):**
+- **Transcript segments cluster bimodally:** ~910 for Essentials-length episodes, ~4,300–4,500 for full guest interviews. Use this to predict Haiku runtime before kicking off the next run (~90s vs ~150s).
+- **Conclusions count tracks topic breadth, not episode length:** solo Essentials EP-404 touched 6 categories (broadest topical reach); tightly-scoped guest interview EP-405 touched 3.
+- **Commit cadence:** EP-402+403 bundled in one push (`0f13f17`), EP-404 alone (`df7487a`), EP-405 alone (`746db4a`). When discovery surfaces 2+ new episodes, prefer one bundled commit; for single-episode runs, push immediately.
+- **No HTML-entity regressions:** 3 of the 4 streak adds had `&amp;` in the title — all clean folder names produced.
 
 ## Lab Notes (Most Recent First)
+
+- **2026-05-18 — Fourth consecutive Tier 1 win + named-guest path verified.** EP-405 (*How to Overcome Social Anxiety*, Dr. Nick Epley — Behavioral Scientist, University of Chicago) processed first-try via `pipeline.py`. 4,478 transcript segments fetched cleanly via `YouTubeTranscriptApi`. Unlike EP-404 (solo Essentials, `Guest: None`), this run exercised the named-guest path: pipeline log printed the full title+affiliation (`Guest: Dr. Nick Epley, Behavioral Scientist, University of Chicago`) and auto-appended a new entry to GUESTS.md alongside the MAP and 3 Conclusions writes. Both paths (solo + named-guest) are now production-verified in consecutive runs. Tier 1 streak is now 4-for-4 over a 6-day window (2026-05-12 → 2026-05-18); the "Tier 1 always IP-blocked" rule is permanently retired across all docs. Conclusions touched: `emotional-intelligence-and-relationships.md`, `happiness-and-wellbeing.md`, `society-and-technology.md` — first time `society-and-technology.md` has been written to in this episode batch.
+
+- **2026-05-16 — Third consecutive Tier 1 win + solo Essentials verification.** EP-404 (*Essentials: Understanding & Controlling Aggression*, solo — no guest) processed first-try via `pipeline.py`. The pipeline correctly logged `Guest: None` in its run output and skipped GUESTS.md write; this is now the canonical indicator agents should look for to confirm pipeline behavior is correct on solo episodes. `detect_episode_number()` correctly assigned 404 next, despite the higher-numbered EP-393–401 LIVE EVENT/AMA block — confirming the function is renumber-safe by reading the literal maximum folder number, not by counting. End-to-end run (channel scrape → cross-reference → pipeline → index.md + social card → mkdocs build → git push → workspace-root trio sync) took ~5 minutes; Haiku summary generation dominated the time budget. The HTML-entity bug fix (`html.unescape()` in `clean_folder_name()`) is now battle-tested across 3 consecutive `&amp;`-titled adds — no `andamp;` artifacts produced. Three-for-three Tier 1 means the old "Tier 1 always IP-blocked, use `fetch_cdp.py`" guidance is formally retired; `pipeline.py` is now the documented default, `fetch_cdp.py` is a fallback for `IpBlocked` / `TranscriptsDisabled` only.
 
 - **2026-05-12 — Tier 1 (`pipeline.py --video`) works again.** Both EP-402 and EP-403 fetched cleanly via `YouTubeTranscriptApi` without IP block. The old "Tier 1 always IP-blocked, use `fetch_cdp.py`" rule is no longer accurate — try `pipeline.py` first, drop to CDP only on `IpBlocked` / `TranscriptsDisabled`. Note: `yt-dlp` channel scraping for `wiki-update-check` still warns "cookies no longer valid" but `--flat-playlist` returns video metadata anyway; `cookies.txt` refresh only matters when transcripts need yt-dlp (Tier 2) or when full channel data with auth is needed.

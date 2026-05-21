@@ -4,7 +4,7 @@ title: Home
 
 # Huberman Lab Wiki
 
-The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **405 episodes**.
+The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **406 episodes**.
 
 Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 ## 🎬 Latest Episode
 
-**EP-405 — How to Overcome Social Anxiety | Dr. Nick Epley** *(May 18, 2026)*
+**EP-406 — Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang** *(May 21, 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/Q2hOryHdgAk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/MOPqSEK6GvA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 
 ---
 
@@ -98,7 +98,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 405 |
+| **Total Episodes** | 406 |
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |
