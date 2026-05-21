@@ -6,7 +6,6 @@ guest: Stuart McMillan
 publish_date: 2025-03-17
 youtube_id: U3cSnzdyyXU
 length_seconds: 10866
-wiki_page: "[[How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting - Stuart McMillan]]"
 search:
   exclude: true
 ---

@@ -335,6 +335,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-193 - How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](Episodes/EP-193 - How the Brain Works, Curing Blindness and How to Navigate a Career Path - Dr. E.J. Chichilnisky/summary.md)
 
 ### Dr. Eddie Chang
+- [EP-406 - Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 - [EP-095 - The Science of Learning & Speaking Languages | Dr. Eddie Chang](Episodes/EP-095 - The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 
 ### Effects of Fasting & Time Restricted Eating on Fat Loss & Health
