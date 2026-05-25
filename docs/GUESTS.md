@@ -829,3 +829,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Nick Epley, Behavioral Scientist, University of Chicago
 - [EP-405 - How to Overcome Social Anxiety | Dr. Nick Epley](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
+
+### Jeff Cavaliere, M.S. Physical Therapy, Certified Strength and Conditioning Specialist
+- [EP-407 - Build Muscle, Great Posture &amp; Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
