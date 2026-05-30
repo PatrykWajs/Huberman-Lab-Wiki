@@ -440,3 +440,4 @@
 - [EP-405 - How to Overcome Social Anxiety | Dr. Nick Epley](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
 - [EP-406 - Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 - [EP-407 - Build Muscle, Great Posture &amp; Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
+- [EP-408 - The Science &amp; Process of Healing from Grief | Huberman Lab Essentials](Episodes/EP-408 - The Science and Process of Healing from Grief/summary.md)
