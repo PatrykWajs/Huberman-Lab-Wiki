@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A static MkDocs website containing summaries + full transcripts for 406 Huberman Lab episodes (as of 2026-05-21), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
+A static MkDocs website containing summaries + full transcripts for 408 Huberman Lab episodes (as of 2026-05-30), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
 
 **Live site:** https://patrykwajs.github.io/Huberman-Lab-Wiki/
 **GitHub repo:** https://github.com/PatrykWajs/Huberman-Lab-Wiki
@@ -461,7 +461,9 @@ Quick-reference table mirroring the workspace-root trio. Use for predicting runt
 | 2026-05-12 | 403 | `e89rVf4Pf0k` | Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita | 4,282 | achieving-goals-and-building-habits, mental-health, how-to-regulate-your-nervous-system, the-brain-and-neuroplasticity | `0f13f17` |
 | 2026-05-16 | 404 | `916vhhUsmgE` | Understanding & Controlling Aggression (Essentials) | None (solo) | 910 | hormone-health, the-brain-and-neuroplasticity, how-to-regulate-your-nervous-system, light-exposure-and-circadian-rhythm, emotional-intelligence-and-relationships, supplementation | `df7487a` |
 | 2026-05-18 | 405 | `Q2hOryHdgAk` | How to Overcome Social Anxiety | Dr. Nick Epley | 4,478 | emotional-intelligence-and-relationships, happiness-and-wellbeing, society-and-technology | `746db4a` |
-| 2026-05-21 | 406 | `MOPqSEK6GvA` | Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang | 739 | the-brain-and-neuroplasticity, general-health, society-and-technology | pending |
+| 2026-05-21 | 406 | `MOPqSEK6GvA` | Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang | 739 | the-brain-and-neuroplasticity, general-health, society-and-technology | `5a89ae6` |
+| 2026-05-25 | 407 | `s95KFJ2efm4` | Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere, M.S. PT, CSCS | 4,050 | aging-and-longevity-science, general-health | `de7c6a2` |
+| 2026-05-30 | 408 | `PlQyGIIAGNo` | Essentials: The Science & Process of Healing from Grief | None (solo) | 894 | the-brain-and-neuroplasticity, how-to-regulate-your-nervous-system, emotional-intelligence-and-relationships, sleep-hygiene, nsdr-meditation-and-breathwork | pending |
 
 **Patterns (4-run sample):**
 - **Transcript segments cluster bimodally:** ~910 for Essentials-length episodes, ~4,300–4,500 for full guest interviews. Use this to predict Haiku runtime before kicking off the next run (~90s vs ~150s).
