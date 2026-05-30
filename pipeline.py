@@ -69,6 +69,23 @@ TOPIC_MAP = {
 }
 
 
+# Haiku sometimes splits comma-joined topic slugs into separate strings
+# (e.g. "NSDR, Meditation and Breathwork" → "NSDR" + "Meditation and Breathwork").
+# Map every observed/likely split variant to its canonical TOPIC_MAP key.
+# Caught 2026-05-30 on EP-408 (Healing from Grief).
+TOPIC_ALIASES = {
+    "NSDR": "NSDR, Meditation and Breathwork",
+    "Meditation and Breathwork": "NSDR, Meditation and Breathwork",
+    "Meditation": "NSDR, Meditation and Breathwork",
+    "Breathwork": "NSDR, Meditation and Breathwork",
+    "Alcohol": "Alcohol, Tobacco and Cannabis",
+    "Tobacco": "Alcohol, Tobacco and Cannabis",
+    "Cannabis": "Alcohol, Tobacco and Cannabis",
+    "Tobacco and Cannabis": "Alcohol, Tobacco and Cannabis",
+    "Alcohol and Tobacco": "Alcohol, Tobacco and Cannabis",
+}
+
+
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
 def extract_video_id(url_or_id: str) -> str:
@@ -323,11 +340,19 @@ def update_guests(guest: str, episode_num: int, title: str, folder_name: str, dr
 
 def update_conclusions(topics: list, episode_num: int, title: str, folder_name: str,
                        findings: list, dry_run: bool):
+    written = set()
     for topic in topics:
-        filename = TOPIC_MAP.get(topic)
+        canonical = TOPIC_ALIASES.get(topic, topic)
+        filename = TOPIC_MAP.get(canonical)
         if not filename:
             print(f"  WARN: Unknown topic '{topic}' — skipping conclusions update")
             continue
+        if canonical != topic:
+            print(f"  ALIAS: '{topic}' → '{canonical}'")
+        if filename in written:
+            print(f"  SKIP: Conclusions/{filename} already written this episode (dedup)")
+            continue
+        written.add(filename)
         conclusion_path = CONCLUSIONS_DIR / filename
         # Use first 3 findings as conclusions entries
         entries = []
