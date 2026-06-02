@@ -3,3 +3,10 @@ active/
 
 site/
 __pycache__/
+
+# secrets / per-machine
+cookies.txt
+.env
+
+# untracked utility script that keeps surfacing in `git status`
+scripts/sort_guests.py

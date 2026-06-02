@@ -412,6 +412,7 @@ def main():
     # 1. Metadata
     print("Fetching metadata...")
     title, date = get_video_metadata(video_id)
+    title = html.unescape(title)
     clean_title = clean_folder_name(title)
     episode_num = args.episode_num or detect_episode_number()
     folder_name = f"EP-{episode_num} - {clean_title}"
