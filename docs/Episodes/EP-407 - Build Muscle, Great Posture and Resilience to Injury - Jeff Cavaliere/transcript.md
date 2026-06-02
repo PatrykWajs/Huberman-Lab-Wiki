@@ -1,5 +1,5 @@
 ---
-title: "Build Muscle, Great Posture &amp; Resilience to Injury | Jeff Cavaliere"
+title: "Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere"
 type: transcript
 episode_date: 2026-05-25
 episode_number: 407

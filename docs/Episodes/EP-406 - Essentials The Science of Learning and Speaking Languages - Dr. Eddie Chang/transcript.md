@@ -1,5 +1,5 @@
 ---
-title: "Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang"
+title: "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang"
 type: transcript
 episode_date: 2026-05-21
 episode_number: 406

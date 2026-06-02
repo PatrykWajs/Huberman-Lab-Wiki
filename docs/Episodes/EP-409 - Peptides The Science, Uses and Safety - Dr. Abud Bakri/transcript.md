@@ -1,5 +1,5 @@
 ---
-title: "Peptides: The Science, Uses &amp; Safety | Dr. Abud Bakri"
+title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
 type: transcript
 episode_date: 2026-06-01
 episode_number: 409

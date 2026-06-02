@@ -1,5 +1,5 @@
 ---
-title: "Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern"
+title: "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern"
 type: transcript
 episode_date: 2026-05-07
 episode_number: 402

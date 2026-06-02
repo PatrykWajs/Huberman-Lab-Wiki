@@ -1,5 +1,5 @@
 ---
-title: "Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti"
+title: "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti"
 type: transcript
 episode_date: 2026-05-04
 episode_number: 392
