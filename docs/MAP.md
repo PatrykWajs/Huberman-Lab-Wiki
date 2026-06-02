@@ -441,3 +441,4 @@
 - [EP-406 - Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 - [EP-407 - Build Muscle, Great Posture &amp; Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
 - [EP-408 - The Science &amp; Process of Healing from Grief | Huberman Lab Essentials](Episodes/EP-408 - The Science and Process of Healing from Grief/summary.md)
+- [EP-409 - Peptides: The Science, Uses &amp; Safety | Dr. Abud Bakri](Episodes/EP-409 - Peptides The Science, Uses and Safety - Dr. Abud Bakri/summary.md)

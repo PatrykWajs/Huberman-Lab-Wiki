@@ -832,3 +832,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Jeff Cavaliere, M.S. Physical Therapy, Certified Strength and Conditioning Specialist
 - [EP-407 - Build Muscle, Great Posture &amp; Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
+
+### Dr. Abud Bakri, Internal Medicine Physician
+- [EP-409 - Peptides: The Science, Uses &amp; Safety | Dr. Abud Bakri](Episodes/EP-409 - Peptides The Science, Uses and Safety - Dr. Abud Bakri/summary.md)

@@ -285,27 +285,38 @@ RULES:
 
 
 def parse_frontmatter(md: str) -> dict:
-    """Extract frontmatter fields from generated summary.md."""
+    """Extract frontmatter fields from generated summary.md.
+
+    Note: the prior implementation used a `_last == 'topics'` flag that
+    was still set when the first `- foo` after `topics:` was processed,
+    so the FIRST topic in every episode's list was silently dropped and
+    its Conclusion write skipped. Caught 2026-06-02 on EP-409 (Peptides
+    / Dr. Abud Bakri) — `topics:` had Supplementation as item 1 but the
+    pipeline log showed only 3 items, with Supplementation missing.
+    The rewrite below uses an explicit `in_topics` flag that toggles
+    off on the next non-list-item line, which correctly captures every
+    list item including the first.
+    """
     result = {"guest": "None", "topics": []}
     in_fm = False
-    lines = md.split('\n')
-    i = 0
-    for line in lines:
+    in_topics = False
+    for line in md.split('\n'):
         if line.strip() == '---':
             if not in_fm:
                 in_fm = True
                 continue
             else:
                 break
-        if in_fm:
-            if line.startswith('guest:'):
-                result['guest'] = line.split(':', 1)[1].strip().strip('"')
-            elif line.startswith('- ') and 'topics' not in result.get('_last', ''):
-                result['topics'].append(line[2:].strip())
-            elif line.startswith('topics:'):
-                result['_last'] = 'topics'
-            else:
-                result['_last'] = ''
+        if not in_fm:
+            continue
+        if line.startswith('- ') and in_topics:
+            result['topics'].append(line[2:].strip())
+            continue
+        in_topics = False
+        if line.startswith('guest:'):
+            result['guest'] = line.split(':', 1)[1].strip().strip('"')
+        elif line.startswith('topics:'):
+            in_topics = True
     return result
 
 
