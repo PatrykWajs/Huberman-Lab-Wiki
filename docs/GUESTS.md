@@ -335,7 +335,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-193 - How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](Episodes/EP-193 - How the Brain Works, Curing Blindness and How to Navigate a Career Path - Dr. E.J. Chichilnisky/summary.md)
 
 ### Dr. Eddie Chang
-- [EP-406 - Essentials: The Science of Learning &amp; Speaking Languages | Dr. Eddie Chang](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
+- [EP-406 - Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang](Episodes/EP-406 - Essentials The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 - [EP-095 - The Science of Learning & Speaking Languages | Dr. Eddie Chang](Episodes/EP-095 - The Science of Learning and Speaking Languages - Dr. Eddie Chang/summary.md)
 
 ### Effects of Fasting & Time Restricted Eating on Fat Loss & Health
@@ -642,7 +642,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-171 - Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford](Episodes/EP-171 - Female Hormone Health, Fertility and Vitality - Dr. Natalie Crawford/summary.md)
 
 ### Dr. Natalie Crawford, MD — Double board-certified physician in obstetrics/gynecology, fertility, and reproductive health
-- [EP-391 - How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford](Episodes/EP-391 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
+- [EP-391 - How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](Episodes/EP-391 - How Women Can Improve Their Fertility and Hormone Health - Dr. Natalie Crawford/summary.md)
 
 ### Dr. Nirao Shah
 - [EP-312 - Male vs. Female Brain Differences & How They Arise From Genes & Hormones - Dr. Nirao Shah](Episodes/EP-312 - Male vs. Female Brain Differences and How They Arise From Genes and Hormones - Dr. Nirao Shah/summary.md)
@@ -661,7 +661,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-363 - Essentials - Therapy, Treating Trauma & Other Life Challenges - Dr. Paul Conti](Episodes/EP-363 - Essentials - Therapy, Treating Trauma and Other Life Challenges - Dr. Paul Conti/summary.md)
 
 ### Dr. Paul Conti, MD, Psychiatrist
-- [EP-392 - Tools to Bolster Your Mental Health &amp; Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
+- [EP-392 - Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti](Episodes/EP-392 - Tools to Bolster Your Mental Health and Confidence - Dr. Paul Conti/summary.md)
 
 ### Pavel Tsatsouline
 - [EP-263 - How to Build Strength, Endurance & Flexibility at Any Age - Pavel Tsatsouline](Episodes/EP-263 - How to Build Strength, Endurance and Flexibility at Any Age - Pavel Tsatsouline/summary.md)
@@ -822,16 +822,16 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-215 - The Science of Hunger & Medications to Combat Obesity - Dr. Zachary Knight](Episodes/EP-215 - The Science of Hunger and Medications to Combat Obesity - Dr. Zachary Knight/summary.md)
 
 ### Dr. Casey Halpern, Chief of Stereotactic Functional Neurosurgery
-- [EP-402 - Essentials: Compulsive Behaviors &amp; Deep Brain Stimulation | Dr. Casey Halpern](Episodes/EP-402 - Essentials Compulsive Behaviors and Deep Brain Stimulation - Dr. Casey Halpern/summary.md)
+- [EP-402 - Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern](Episodes/EP-402 - Essentials Compulsive Behaviors and Deep Brain Stimulation - Dr. Casey Halpern/summary.md)
 
 ### Dr. Kentaro Fujita, Professor of Psychology at Ohio State University
-- [EP-403 - Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
+- [EP-403 - Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita](Episodes/EP-403 - Master Self Control and Overcome Procrastination - Dr. Kentaro Fujita/summary.md)
 
 ### Dr. Nick Epley, Behavioral Scientist, University of Chicago
 - [EP-405 - How to Overcome Social Anxiety | Dr. Nick Epley](Episodes/EP-405 - How to Overcome Social Anxiety - Dr. Nick Epley/summary.md)
 
 ### Jeff Cavaliere, M.S. Physical Therapy, Certified Strength and Conditioning Specialist
-- [EP-407 - Build Muscle, Great Posture &amp; Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
+- [EP-407 - Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
 
 ### Dr. Abud Bakri, Internal Medicine Physician
-- [EP-409 - Peptides: The Science, Uses &amp; Safety | Dr. Abud Bakri](Episodes/EP-409 - Peptides The Science, Uses and Safety - Dr. Abud Bakri/summary.md)
+- [EP-409 - Peptides: The Science, Uses & Safety | Dr. Abud Bakri](Episodes/EP-409 - Peptides The Science, Uses and Safety - Dr. Abud Bakri/summary.md)

@@ -1,5 +1,5 @@
 ---
-title: "Understanding &amp; Controlling Aggression | Huberman Lab Essentials"
+title: "Understanding & Controlling Aggression | Huberman Lab Essentials"
 type: transcript
 episode_date: 2026-05-14
 episode_number: 404

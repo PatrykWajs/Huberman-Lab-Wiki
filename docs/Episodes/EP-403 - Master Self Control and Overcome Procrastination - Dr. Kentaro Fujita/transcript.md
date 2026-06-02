@@ -1,5 +1,5 @@
 ---
-title: "Master Self Control &amp; Overcome Procrastination | Dr. Kentaro Fujita"
+title: "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita"
 type: transcript
 episode_date: 2026-05-11
 episode_number: 403

@@ -1,5 +1,5 @@
 ---
-title: "The Science &amp; Process of Healing from Grief | Huberman Lab Essentials"
+title: "The Science & Process of Healing from Grief | Huberman Lab Essentials"
 type: transcript
 episode_date: 2026-05-28
 episode_number: 408

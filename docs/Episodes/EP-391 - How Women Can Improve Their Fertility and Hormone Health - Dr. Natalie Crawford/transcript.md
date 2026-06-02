@@ -1,5 +1,5 @@
 ---
-title: "How Women Can Improve Their Fertility &amp; Hormone Health | Dr. Natalie Crawford"
+title: "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford"
 type: transcript
 episode_date: 2026-04-13
 episode_number: 391
