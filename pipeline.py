@@ -83,6 +83,8 @@ TOPIC_ALIASES = {
     "Cannabis": "Alcohol, Tobacco and Cannabis",
     "Tobacco and Cannabis": "Alcohol, Tobacco and Cannabis",
     "Alcohol and Tobacco": "Alcohol, Tobacco and Cannabis",
+    # Early bulk-ingest used ampersand instead of "and" — bridge to canonical key
+    "Diet & Nutrition": "Diet and Nutrition",
 }
 
 
