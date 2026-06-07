@@ -442,3 +442,4 @@
 - [EP-407 - Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere](Episodes/EP-407 - Build Muscle, Great Posture and Resilience to Injury - Jeff Cavaliere/summary.md)
 - [EP-408 - The Science & Process of Healing from Grief | Huberman Lab Essentials](Episodes/EP-408 - The Science and Process of Healing from Grief/summary.md)
 - [EP-409 - Peptides: The Science, Uses & Safety | Dr. Abud Bakri](Episodes/EP-409 - Peptides The Science, Uses and Safety - Dr. Abud Bakri/summary.md)
+- [EP-410 - Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-410 - Essentials Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
