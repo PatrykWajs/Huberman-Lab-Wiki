@@ -18,6 +18,7 @@ Usage:
 """
 
 import argparse
+import html
 import re
 import sys
 import time

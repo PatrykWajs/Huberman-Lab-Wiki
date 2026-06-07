@@ -651,6 +651,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-134 - How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](Episodes/EP-134 - How Smells Influence Our Hormones, Health and Behavior - Dr. Noam Sobel/summary.md)
 
 ### Dr. Nolan Williams
+- [EP-410 - Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-410 - Essentials Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
 - [EP-093 - Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-093 - Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
 
 ### Dr. Oded Rechavi
