@@ -836,3 +836,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Abud Bakri, Internal Medicine Physician
 - [EP-409 - Peptides: The Science, Uses & Safety | Dr. Abud Bakri](Episodes/EP-409 - Peptides The Science, Uses and Safety - Dr. Abud Bakri/summary.md)
+
+### Dr. Marie-Pierre St-Onge, Professor of Nutritional Medicine at Columbia University School of Medicine
+- [EP-411 - Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](Episodes/EP-411 - Eating for Better Sleep and Foods that Improve Metabolic Health - Dr. Marie-Pierre St-Onge/summary.md)
