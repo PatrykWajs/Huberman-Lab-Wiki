@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A static MkDocs website containing summaries + full transcripts for 410 Huberman Lab episodes (as of 2026-06-04), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
+A static MkDocs website containing summaries + full transcripts for 411 Huberman Lab episodes (as of 2026-06-09), deployed to GitHub Pages. Built and maintained by AI. Not affiliated with Huberman Lab officially.
 
 **Live site:** https://patrykwajs.github.io/Huberman-Lab-Wiki/
 **GitHub repo:** https://github.com/PatrykWajs/Huberman-Lab-Wiki
@@ -466,6 +466,7 @@ Quick-reference table mirroring the workspace-root trio. Use for predicting runt
 | 2026-05-30 | 408 | `PlQyGIIAGNo` | Essentials: The Science & Process of Healing from Grief | None (solo) | 894 | the-brain-and-neuroplasticity, how-to-regulate-your-nervous-system, emotional-intelligence-and-relationships, sleep-hygiene, nsdr-meditation-and-breathwork *(NSDR slot manually patched — see lab note)* | `28f950f` |
 | 2026-06-02 | 409 | `_DfqnpSbMfE` | Peptides: The Science, Uses & Safety | Dr. Abud Bakri, Internal Medicine Physician | 5,522 | supplementation *(manually patched — `parse_frontmatter` first-topic-drop bug)*, hormone-health, aging-and-longevity-science, general-health | `c2d9ae2` |
 | 2026-06-04 | 410 | `GkG1hMhIQ_Q` | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams | 979 | mental-health, the-brain-and-neuroplasticity, how-to-regulate-your-nervous-system, happiness-and-wellbeing | `978c48c` |
+| 2026-06-09 | 411 | `jjaFnKtytqI` | Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge | 3,177 | sleep-hygiene, diet-and-nutrition, hormone-health, aging-and-longevity-science, general-health | `abd1159` |
 
 **Patterns (4-run sample):**
 - **Transcript segments cluster bimodally:** ~910 for Essentials-length episodes, ~4,300–4,500 for full guest interviews. Use this to predict Haiku runtime before kicking off the next run (~90s vs ~150s).
@@ -474,6 +475,8 @@ Quick-reference table mirroring the workspace-root trio. Use for predicting runt
 - **No HTML-entity regressions:** 3 of the 4 streak adds had `&amp;` in the title — all clean folder names produced.
 
 ## Lab Notes (Most Recent First)
+
+- **2026-06-09 — EP-411 added (10th consecutive Tier 1 win) — first clean run since the `import html` fix.** EP-411 (*Eating for Better Sleep & Foods that Improve Metabolic Health*, Dr. Marie-Pierre St-Onge, Professor of Nutritional Medicine at Columbia, `jjaFnKtytqI`, 3,177 segments) processed first-try via `pipeline.py` with zero intervention — the `import html` fix from EP-410 (commit `978c48c`) held on this `&`-titled episode (title *…Sleep & Foods…* unescaped cleanly into folder/MAP/GUESTS/Conclusions, 0 `&amp;` leaks). All 5 frontmatter topics captured (parse_frontmatter fix confirmed again: Sleep Hygiene was item 1 and was written), named-guest GUESTS.md auto-append with full Columbia affiliation, 5 Conclusion files (3 findings each — the broadest Conclusions reach since EP-404's 6), mkdocs build 0 warnings. Shipped in commit `abd1159`. 3,177 segments sits mid-cluster for a full guest interview (between the ~4,050–5,522 high end and the ~700–979 Essentials band). Tier 1 streak now **10-for-10** (2026-05-12 → 2026-06-09). No new bugs surfaced — first add since EP-402 to require no code change at all.
 
 - **2026-06-04 — EP-410 added (9th consecutive Tier 1 win) + `import html` NameError FIXED.** EP-410 (*Essentials: Psychedelics & Neurostimulation for Brain Rewiring*, Dr. Nolan Williams, `GkG1hMhIQ_Q`, 979 segments) is the first new content slot after EP-409. First `pipeline.py` run crashed at `main()` with `NameError: name 'html' is not defined` — the `html.unescape(title)` calls added in commit `f4ff799` (the `&amp;`-leak fix) and the one inside `clean_folder_name()` (line 159) were never accompanied by a top-level `import html`. The bug was latent because EP-409 was the last episode processed (at commit `c2d9ae2`, *before* `f4ff799` landed the unescape lines), so EP-410 is the first run to actually execute that code path. Fixed by adding `import html` to the stdlib import block (alphabetical, after `import argparse`). Re-ran cleanly: all 4 frontmatter topics captured (parse_frontmatter fix confirmed working in production — Mental Health, the first topic, was included), named-guest path wrote GUESTS.md, folder name clean (`&` → handled), 0 `&amp;` leaks, 4 Conclusion files written (3 findings each), mkdocs build 0 warnings. Committed with EP-410 content in `978c48c`. **Forward rule:** any new `html.`/`re.`/etc. call in `pipeline.py` needs its import verified — the streak masks this because no `&`-titled episode forced the code path between f4ff799 and now. Tier 1 streak now 9-for-9 (2026-05-12 → 2026-06-04). EP-410 segment count (979) sits in the short-Essentials cluster (~700–910 band) as expected for an Essentials repost.
 
