@@ -10,3 +10,7 @@ cookies.txt
 
 # untracked utility script that keeps surfacing in `git status`
 scripts/sort_guests.py
+pipeline.py
+fetch_cdp.py
+CLAUDE.md
+scripts/
