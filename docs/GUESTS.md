@@ -839,3 +839,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Marie-Pierre St-Onge, Professor of Nutritional Medicine at Columbia University School of Medicine
 - [EP-411 - Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](Episodes/EP-411 - Eating for Better Sleep and Foods that Improve Metabolic Health - Dr. Marie-Pierre St-Onge/summary.md)
+
+### Andy Stumpf, retired Navy SEAL, Red Bull High-Performance Team member, wingsuite world record holder
+- [EP-413 - The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf](Episodes/EP-413 - The Mental Frame and Specific Daily Actions to Succeed - Andy Stumpf/summary.md)

@@ -445,3 +445,5 @@
 - [EP-410 - Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-410 - Essentials Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
 - [EP-411 - Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](Episodes/EP-411 - Eating for Better Sleep and Foods that Improve Metabolic Health - Dr. Marie-Pierre St-Onge/summary.md)
 - [EP-412 - Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing](Episodes/EP-412 - Essentials Sleep Toolkit for Optimizing Sleep and Sleep-Wake Timing/summary.md)
+- [EP-413 - The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf](Episodes/EP-413 - The Mental Frame and Specific Daily Actions to Succeed - Andy Stumpf/summary.md)
+- [EP-414 - Improve Flexibility with Research-Supported Stretching Protocols | Huberman Lab Essentials](Episodes/EP-414 - Improve Flexibility with Research-Supported Stretching Protocols/summary.md)
