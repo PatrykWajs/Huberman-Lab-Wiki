@@ -447,3 +447,4 @@
 - [EP-412 - Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing](Episodes/EP-412 - Essentials Sleep Toolkit for Optimizing Sleep and Sleep-Wake Timing/summary.md)
 - [EP-413 - The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf](Episodes/EP-413 - The Mental Frame and Specific Daily Actions to Succeed - Andy Stumpf/summary.md)
 - [EP-414 - Improve Flexibility with Research-Supported Stretching Protocols | Huberman Lab Essentials](Episodes/EP-414 - Improve Flexibility with Research-Supported Stretching Protocols/summary.md)
+- [EP-415 - Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](Episodes/EP-415 - Science of Attraction, Compatibility and Romance - Dr. Paul Eastwick/summary.md)

@@ -842,3 +842,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Andy Stumpf, retired Navy SEAL, Red Bull High-Performance Team member, wingsuite world record holder
 - [EP-413 - The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf](Episodes/EP-413 - The Mental Frame and Specific Daily Actions to Succeed - Andy Stumpf/summary.md)
+
+### Dr. Paul Eastwick, Professor of Psychology, University of California, Davis
+- [EP-415 - Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](Episodes/EP-415 - Science of Attraction, Compatibility and Romance - Dr. Paul Eastwick/summary.md)
