@@ -448,3 +448,4 @@
 - [EP-413 - The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf](Episodes/EP-413 - The Mental Frame and Specific Daily Actions to Succeed - Andy Stumpf/summary.md)
 - [EP-414 - Improve Flexibility with Research-Supported Stretching Protocols | Huberman Lab Essentials](Episodes/EP-414 - Improve Flexibility with Research-Supported Stretching Protocols/summary.md)
 - [EP-415 - Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](Episodes/EP-415 - Science of Attraction, Compatibility and Romance - Dr. Paul Eastwick/summary.md)
+- [EP-416 - Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](Episodes/EP-416 - Essentials The Science of Eating for Health, Fat Loss and Lean Muscle - Dr. Layne Norton/summary.md)

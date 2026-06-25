@@ -845,3 +845,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Paul Eastwick, Professor of Psychology, University of California, Davis
 - [EP-415 - Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](Episodes/EP-415 - Science of Attraction, Compatibility and Romance - Dr. Paul Eastwick/summary.md)
+
+### Dr. Layne Norton, PhD in Sport Physiology
+- [EP-416 - Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](Episodes/EP-416 - Essentials The Science of Eating for Health, Fat Loss and Lean Muscle - Dr. Layne Norton/summary.md)
