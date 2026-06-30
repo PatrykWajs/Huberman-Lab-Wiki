@@ -848,3 +848,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Layne Norton, PhD in Sport Physiology
 - [EP-416 - Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](Episodes/EP-416 - Essentials The Science of Eating for Health, Fat Loss and Lean Muscle - Dr. Layne Norton/summary.md)
+
+### Ido Portal, Movement Teacher and Founder of Movement Culture
+- [EP-417 - Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal](Episodes/EP-417 - Movement Practice to Strengthen Your Mind-Body Connection - Ido Portal/summary.md)
