@@ -531,6 +531,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-334 - Protect & Improve Your Hearing & Brain Health - Dr. Konstantina Stankovic](Episodes/EP-334 - Protect and Improve Your Hearing and Brain Health - Dr. Konstantina Stankovic/summary.md)
 
 ### Dr. Kyle Gillett
+- [EP-418 - Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett](Episodes/EP-418 - Essentials Tools for Hormone Optimization in Males - Dr. Kyle Gillett/summary.md)
 - [EP-067 - How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](Episodes/EP-067 - How to Optimize Your Hormones for Health and Vitality - Dr. Kyle Gillett/summary.md)
 - [EP-104 - Tools for Hormone Optimization in Males | Dr. Kyle Gillett](Episodes/EP-104 - Tools for Hormone Optimization in Males - Dr. Kyle Gillett/summary.md)
 - [EP-355 - Essentials - How to Optimize Your Hormones for Health & Vitality](Episodes/EP-355 - Essentials - How to Optimize Your Hormones for Health and Vitality/summary.md)
