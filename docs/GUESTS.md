@@ -852,3 +852,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Ido Portal, Movement Teacher and Founder of Movement Culture
 - [EP-417 - Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal](Episodes/EP-417 - Movement Practice to Strengthen Your Mind-Body Connection - Ido Portal/summary.md)
+
+### Cesar Millan, Dog Trainer and Behaviorist
+- [EP-419 - Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan](Episodes/EP-419 - Raising a Dog and Mastering Calm Assertive Energy - Cesar Millan/summary.md)

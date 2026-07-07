@@ -451,3 +451,4 @@
 - [EP-416 - Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](Episodes/EP-416 - Essentials The Science of Eating for Health, Fat Loss and Lean Muscle - Dr. Layne Norton/summary.md)
 - [EP-417 - Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal](Episodes/EP-417 - Movement Practice to Strengthen Your Mind-Body Connection - Ido Portal/summary.md)
 - [EP-418 - Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett](Episodes/EP-418 - Essentials Tools for Hormone Optimization in Males - Dr. Kyle Gillett/summary.md)
+- [EP-419 - Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan](Episodes/EP-419 - Raising a Dog and Mastering Calm Assertive Energy - Cesar Millan/summary.md)
