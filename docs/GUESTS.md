@@ -855,3 +855,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Cesar Millan, Dog Trainer and Behaviorist
 - [EP-419 - Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan](Episodes/EP-419 - Raising a Dog and Mastering Calm Assertive Energy - Cesar Millan/summary.md)
+
+### Dr. Alan Castel, Professor of Psychology at UCLA
+- [EP-421 - How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel](Episodes/EP-421 - How to Improve Your Memory and Cognitive Function at Any Age - Dr. Alan Castel/summary.md)
