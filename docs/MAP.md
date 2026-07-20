@@ -454,3 +454,5 @@
 - [EP-419 - Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan](Episodes/EP-419 - Raising a Dog and Mastering Calm Assertive Energy - Cesar Millan/summary.md)
 - [EP-420 - The Science & Treatment of Obsessive Compulsive Disorder (OCD) | Huberman Lab Essentials](Episodes/EP-420 - The Science and Treatment of Obsessive Compulsive Disorder (OCD)/summary.md)
 - [EP-421 - How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel](Episodes/EP-421 - How to Improve Your Memory and Cognitive Function at Any Age - Dr. Alan Castel/summary.md)
+- [EP-422 - The Science & Treatment of Bipolar Disorder | Huberman Lab Essentials](Episodes/EP-422 - The Science and Treatment of Bipolar Disorder/summary.md)
+- [EP-423 - Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](Episodes/EP-423 - Accelerate Learning and Increase Cognitive Capacity - Dr. Tommy Wood/summary.md)

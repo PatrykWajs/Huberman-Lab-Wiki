@@ -858,3 +858,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Alan Castel, Professor of Psychology at UCLA
 - [EP-421 - How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel](Episodes/EP-421 - How to Improve Your Memory and Cognitive Function at Any Age - Dr. Alan Castel/summary.md)
+
+### Dr. Tommy Wood, MD, Neuroscience Researcher, University of Washington
+- [EP-423 - Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](Episodes/EP-423 - Accelerate Learning and Increase Cognitive Capacity - Dr. Tommy Wood/summary.md)
