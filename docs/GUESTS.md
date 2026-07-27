@@ -720,6 +720,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-283 - Tools for Overcoming Substance & Behavioral Addictions - Ryan Soave](Episodes/EP-283 - Tools for Overcoming Substance and Behavioral Addictions - Ryan Soave/summary.md)
 
 ### Dr. Sam Harris
+- [EP-424 - Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](Episodes/EP-424 - Essentials Using Meditation to Focus, View Consciousness and Expand Your Mind - Dr. Sam Harris/summary.md)
 - [EP-107 - Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](Episodes/EP-107 - Using Meditation to Focus, View Consciousness and Expand Your Mind - Dr. Sam Harris/summary.md)
 
 ### Dr. Samer Hattar
