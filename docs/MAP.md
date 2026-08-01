@@ -458,3 +458,4 @@
 - [EP-423 - Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](Episodes/EP-423 - Accelerate Learning and Increase Cognitive Capacity - Dr. Tommy Wood/summary.md)
 - [EP-424 - Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](Episodes/EP-424 - Essentials Using Meditation to Focus, View Consciousness and Expand Your Mind - Dr. Sam Harris/summary.md)
 - [EP-425 - Your Top Health Questions Answered](Episodes/EP-425 - Your Top Health Questions Answered/summary.md)
+- [EP-426 - Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](Episodes/EP-426 - Essentials How to Become Resilient, Forge Your Identity and Lead Others - Jocko Willink/summary.md)

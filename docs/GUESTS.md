@@ -862,3 +862,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Tommy Wood, MD, Neuroscience Researcher, University of Washington
 - [EP-423 - Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](Episodes/EP-423 - Accelerate Learning and Increase Cognitive Capacity - Dr. Tommy Wood/summary.md)
+
+### Jocko Willink, retired Navy SEAL commander and leadership consultant
+- [EP-426 - Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](Episodes/EP-426 - Essentials How to Become Resilient, Forge Your Identity and Lead Others - Jocko Willink/summary.md)
