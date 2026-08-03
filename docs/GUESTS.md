@@ -865,3 +865,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Jocko Willink, retired Navy SEAL commander and leadership consultant
 - [EP-426 - Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](Episodes/EP-426 - Essentials How to Become Resilient, Forge Your Identity and Lead Others - Jocko Willink/summary.md)
+
+### Dr. Max Krummel, Professor of Immunology and Cancer Biology, UCSF
+- [EP-427 - How Your Immune System Works & How to Improve It | Dr. Max Krummel](Episodes/EP-427 - How Your Immune System Works and How to Improve It - Dr. Max Krummel/summary.md)
