@@ -868,3 +868,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Max Krummel, Professor of Immunology and Cancer Biology, UCSF
 - [EP-427 - How Your Immune System Works & How to Improve It | Dr. Max Krummel](Episodes/EP-427 - How Your Immune System Works and How to Improve It - Dr. Max Krummel/summary.md)
+
+### Dr. Fei-Fei Li, Computer Scientist and Professor at Stanford, Director of Stanford Institute for Human-Centered Artificial Intelligence
+- [EP-429 - Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](Episodes/EP-429 - Using AI to Increase Your Intelligence and Enrich Humanity - Dr. Fei-Fei Li/summary.md)
