@@ -871,3 +871,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Fei-Fei Li, Computer Scientist and Professor at Stanford, Director of Stanford Institute for Human-Centered Artificial Intelligence
 - [EP-429 - Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](Episodes/EP-429 - Using AI to Increase Your Intelligence and Enrich Humanity - Dr. Fei-Fei Li/summary.md)
+
+### Dr. Sara Gottfried, MD
+- [EP-430 - Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](Episodes/EP-430 - Essentials How to Optimize Female Hormone Health for Vitality and Longevity - Dr. Sara Gottfried/summary.md)

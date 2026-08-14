@@ -4,7 +4,7 @@ title: Home
 
 # Huberman Lab Wiki
 
-The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **429 episodes**.
+The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **430 episodes**.
 
 Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 ## 🎬 Latest Episode
 
-**EP-429 — Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li** *(August 10, 2026)*
+**EP-430 — Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried** *(August 13, 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/N5AQFYtqx8Q" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/wbuPQPu-03Y" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-429 - Using AI to Increase Your Intelligence and Enrich Humanity - Dr. Fei-Fei Li/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-430 - Essentials How to Optimize Female Hormone Health for Vitality and Longevity - Dr. Sara Gottfried/summary.md)
 
 ---
 
@@ -30,7 +30,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
     ---
 
-    Chronological list of all 429 episodes with direct links to summaries and transcripts.
+    Chronological list of all 430 episodes with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -98,7 +98,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 429 |
+| **Total Episodes** | 430 |
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |
