@@ -874,3 +874,9 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Sara Gottfried, MD
 - [EP-430 - Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](Episodes/EP-430 - Essentials How to Optimize Female Hormone Health for Vitality and Longevity - Dr. Sara Gottfried/summary.md)
+
+### Dr. Ralph Adolphs, Professor of Psychology, Neuroscience, and Biology at Caltech
+- [EP-431 - Neuroscience of Emotions & Tools for Improving Emotion Regulation| Dr. Ralph Adolphs](Episodes/EP-431 - Neuroscience of Emotions and Tools for Improving Emotion Regulation - Dr. Ralph Adolphs/summary.md)
+
+### Rick Rubin, Music Producer and Author
+- [EP-432 - Essentials: How to Access Your Creativity | Rick Rubin](Episodes/EP-432 - Essentials How to Access Your Creativity - Rick Rubin/summary.md)
