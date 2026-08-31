@@ -465,3 +465,6 @@
 - [EP-430 - Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](Episodes/EP-430 - Essentials How to Optimize Female Hormone Health for Vitality and Longevity - Dr. Sara Gottfried/summary.md)
 - [EP-431 - Neuroscience of Emotions & Tools for Improving Emotion Regulation| Dr. Ralph Adolphs](Episodes/EP-431 - Neuroscience of Emotions and Tools for Improving Emotion Regulation - Dr. Ralph Adolphs/summary.md)
 - [EP-432 - Essentials: How to Access Your Creativity | Rick Rubin](Episodes/EP-432 - Essentials How to Access Your Creativity - Rick Rubin/summary.md)
+- [EP-433 - How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](Episodes/EP-433 - How to Improve Motivation and Overcome Procrastination - Dr. Masud Husain/summary.md)
+- [EP-434 - Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](Episodes/EP-434 - Essentials Diet and Nutrition for Mental Health - Dr. Chris Palmer/summary.md)
+- [EP-435 - How to Accelerate Learning & Improve Education | Joe Liemandt](Episodes/EP-435 - How to Accelerate Learning and Improve Education - Joe Liemandt/summary.md)

@@ -880,3 +880,12 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Rick Rubin, Music Producer and Author
 - [EP-432 - Essentials: How to Access Your Creativity | Rick Rubin](Episodes/EP-432 - Essentials How to Access Your Creativity - Rick Rubin/summary.md)
+
+### Dr. Masud Husain, Neurologist and Neuroscientist at Oxford
+- [EP-433 - How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](Episodes/EP-433 - How to Improve Motivation and Overcome Procrastination - Dr. Masud Husain/summary.md)
+
+### Dr. Chris Palmer, MD
+- [EP-434 - Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](Episodes/EP-434 - Essentials Diet and Nutrition for Mental Health - Dr. Chris Palmer/summary.md)
+
+### Joe Liemandt, Principal of Alpha School
+- [EP-435 - How to Accelerate Learning & Improve Education | Joe Liemandt](Episodes/EP-435 - How to Accelerate Learning and Improve Education - Joe Liemandt/summary.md)
