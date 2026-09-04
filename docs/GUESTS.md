@@ -374,6 +374,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-210 - How to Improve Brain Health & Offset Neurodegeneration - Dr. Gary Steinberg](Episodes/EP-210 - How to Improve Brain Health and Offset Neurodegeneration - Dr. Gary Steinberg/summary.md)
 
 ### Dr. Gina Poe
+- [EP-436 - Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](Episodes/EP-436 - Essentials Use Sleep to Enhance Learning, Memory and Emotional State - Dr. Gina Poe/summary.md)
 - [EP-118 - Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](Episodes/EP-118 - Use Sleep to Enhance Learning, Memory and Emotional State - Dr. Gina Poe/summary.md)
 
 ### Dr. Harold McGee

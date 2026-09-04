@@ -468,3 +468,4 @@
 - [EP-433 - How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain](Episodes/EP-433 - How to Improve Motivation and Overcome Procrastination - Dr. Masud Husain/summary.md)
 - [EP-434 - Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer](Episodes/EP-434 - Essentials Diet and Nutrition for Mental Health - Dr. Chris Palmer/summary.md)
 - [EP-435 - How to Accelerate Learning & Improve Education | Joe Liemandt](Episodes/EP-435 - How to Accelerate Learning and Improve Education - Joe Liemandt/summary.md)
+- [EP-436 - Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](Episodes/EP-436 - Essentials Use Sleep to Enhance Learning, Memory and Emotional State - Dr. Gina Poe/summary.md)
