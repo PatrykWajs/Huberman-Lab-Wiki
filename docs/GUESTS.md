@@ -890,3 +890,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Joe Liemandt, Principal of Alpha School
 - [EP-435 - How to Accelerate Learning & Improve Education | Joe Liemandt](Episodes/EP-435 - How to Accelerate Learning and Improve Education - Joe Liemandt/summary.md)
+
+### Dr. Jared Rutter, Professor of Biochemistry at University of Utah and Howard Hughes Medical Institute Investigator
+- [EP-437 - How Mitochondria Control Your Metabolism | Dr. Jared Rutter](Episodes/EP-437 - How Mitochondria Control Your Metabolism - Dr. Jared Rutter/summary.md)
