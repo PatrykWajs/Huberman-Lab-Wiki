@@ -470,3 +470,4 @@
 - [EP-435 - How to Accelerate Learning & Improve Education | Joe Liemandt](Episodes/EP-435 - How to Accelerate Learning and Improve Education - Joe Liemandt/summary.md)
 - [EP-436 - Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](Episodes/EP-436 - Essentials Use Sleep to Enhance Learning, Memory and Emotional State - Dr. Gina Poe/summary.md)
 - [EP-437 - How Mitochondria Control Your Metabolism | Dr. Jared Rutter](Episodes/EP-437 - How Mitochondria Control Your Metabolism - Dr. Jared Rutter/summary.md)
+- [EP-438 - Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-438 - Essentials Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)

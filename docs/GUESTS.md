@@ -657,6 +657,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-093 - Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](Episodes/EP-093 - Psychedelics and Neurostimulation for Brain Rewiring - Dr. Nolan Williams/summary.md)
 
 ### Dr. Oded Rechavi
+- [EP-438 - Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-438 - Essentials Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)
 - [EP-123 - Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-123 - Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)
 
 ### Dr. Paul Conti
