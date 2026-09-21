@@ -471,3 +471,5 @@
 - [EP-436 - Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](Episodes/EP-436 - Essentials Use Sleep to Enhance Learning, Memory and Emotional State - Dr. Gina Poe/summary.md)
 - [EP-437 - How Mitochondria Control Your Metabolism | Dr. Jared Rutter](Episodes/EP-437 - How Mitochondria Control Your Metabolism - Dr. Jared Rutter/summary.md)
 - [EP-438 - Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-438 - Essentials Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)
+- [EP-439 - The Art of True Happiness | Dr. Arthur Brooks](Episodes/EP-439 - The Art of True Happiness - Dr. Arthur Brooks/summary.md)
+- [EP-440 - Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](Episodes/EP-440 - Essentials How to Assess and Improve All Aspects of Your Fitness - Dr. Andy Galpin/summary.md)

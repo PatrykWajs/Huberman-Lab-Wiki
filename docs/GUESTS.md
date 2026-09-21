@@ -894,3 +894,9 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Jared Rutter, Professor of Biochemistry at University of Utah and Howard Hughes Medical Institute Investigator
 - [EP-437 - How Mitochondria Control Your Metabolism | Dr. Jared Rutter](Episodes/EP-437 - How Mitochondria Control Your Metabolism - Dr. Jared Rutter/summary.md)
+
+### Dr. Arthur Brooks, Professor at Vanderbilt University and Senior Fellow at Harvard Business School
+- [EP-439 - The Art of True Happiness | Dr. Arthur Brooks](Episodes/EP-439 - The Art of True Happiness - Dr. Arthur Brooks/summary.md)
+
+### Dr. Andy Galpin, Professor of Sport Physiology
+- [EP-440 - Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](Episodes/EP-440 - Essentials How to Assess and Improve All Aspects of Your Fitness - Dr. Andy Galpin/summary.md)
