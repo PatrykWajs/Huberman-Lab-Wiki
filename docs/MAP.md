@@ -473,3 +473,4 @@
 - [EP-438 - Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](Episodes/EP-438 - Essentials Genes and the Inheritance of Memories Across Generations - Dr. Oded Rechavi/summary.md)
 - [EP-439 - The Art of True Happiness | Dr. Arthur Brooks](Episodes/EP-439 - The Art of True Happiness - Dr. Arthur Brooks/summary.md)
 - [EP-440 - Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](Episodes/EP-440 - Essentials How to Assess and Improve All Aspects of Your Fitness - Dr. Andy Galpin/summary.md)
+- [EP-441 - Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](Episodes/EP-441 - Best Tools for Gut Health and Weight Loss - Dr. Chris Thompson/summary.md)

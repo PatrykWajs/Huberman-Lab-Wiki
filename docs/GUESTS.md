@@ -900,3 +900,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Andy Galpin, Professor of Sport Physiology
 - [EP-440 - Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](Episodes/EP-440 - Essentials How to Assess and Improve All Aspects of Your Fitness - Dr. Andy Galpin/summary.md)
+
+### Dr. Chris Thompson
+- [EP-441 - Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](Episodes/EP-441 - Best Tools for Gut Health and Weight Loss - Dr. Chris Thompson/summary.md)
