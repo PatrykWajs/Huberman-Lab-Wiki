@@ -4,7 +4,7 @@ title: Home
 
 # Huberman Lab Wiki
 
-The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **441 episodes**.
+The most comprehensive AI-generated knowledge base for the Huberman Lab podcast. Detailed summaries, full transcripts, and aggregated topic-based conclusions from **442 episodes**.
 
 Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 ## 🎬 Latest Episode
 
-**EP-441 — Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson** *(September 21, 2026)*
+**EP-442 — Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin** *(September 24, 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/ecjEM3NJ0lU" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Gu04f6aFuBY" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-441 - Best Tools for Gut Health and Weight Loss - Dr. Chris Thompson/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/EP-442 - Essentials Optimal Protocols to Build Strength and Grow Muscles - Dr. Andy Galpin/summary.md)
 
 ---
 
@@ -30,7 +30,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
     ---
 
-    Chronological list of all 441 episodes with direct links to summaries and transcripts.
+    Chronological list of all 442 episodes with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -98,7 +98,7 @@ Not affiliated with Huberman Lab or Andrew Huberman. Built for personal research
 
 | Metric | Count |
 |--------|-------|
-| **Total Episodes** | 441 |
+| **Total Episodes** | 442 |
 | **Research Topics** | 29 |
 | **Biological Mechanisms** | 21 |
 | **Expert Guests** | 100+ |

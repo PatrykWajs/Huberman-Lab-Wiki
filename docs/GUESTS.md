@@ -155,6 +155,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-381 - Essentials - Using Salt to Optimize Mental & Physical Performance](Episodes/EP-381 - Essentials - Using Salt to Optimize Mental and Physical Performance/summary.md)
 
 ### Dr. Andy Galpin
+- [EP-442 - Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin](Episodes/EP-442 - Essentials Optimal Protocols to Build Strength and Grow Muscles - Dr. Andy Galpin/summary.md)
 - [EP-383 - Essentials - How to Build Strength, Muscle Size & Endurance](Episodes/EP-383 - Essentials - How to Build Strength, Muscle Size and Endurance/summary.md)
 
 ### Dr. Anna Lembke
