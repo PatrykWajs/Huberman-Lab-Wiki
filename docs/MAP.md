@@ -475,3 +475,4 @@
 - [EP-440 - Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](Episodes/EP-440 - Essentials How to Assess and Improve All Aspects of Your Fitness - Dr. Andy Galpin/summary.md)
 - [EP-441 - Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](Episodes/EP-441 - Best Tools for Gut Health and Weight Loss - Dr. Chris Thompson/summary.md)
 - [EP-442 - Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin](Episodes/EP-442 - Essentials Optimal Protocols to Build Strength and Grow Muscles - Dr. Andy Galpin/summary.md)
+- [EP-443 - What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](Episodes/EP-443 - What Humans, Animals and Plants Tell Us About Consciousness - Michael Pollan/summary.md)

@@ -904,3 +904,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Chris Thompson
 - [EP-441 - Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](Episodes/EP-441 - Best Tools for Gut Health and Weight Loss - Dr. Chris Thompson/summary.md)
+
+### Michael Pollan, author and science writer
+- [EP-443 - What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](Episodes/EP-443 - What Humans, Animals and Plants Tell Us About Consciousness - Michael Pollan/summary.md)
