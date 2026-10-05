@@ -13,4 +13,6 @@ scripts/sort_guests.py
 pipeline.py
 fetch_cdp.py
 CLAUDE.md
+AGENTS.md
+GEMINI.md
 scripts/
