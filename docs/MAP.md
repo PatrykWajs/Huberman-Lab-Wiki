@@ -477,3 +477,4 @@
 - [EP-442 - Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin](Episodes/EP-442 - Essentials Optimal Protocols to Build Strength and Grow Muscles - Dr. Andy Galpin/summary.md)
 - [EP-443 - What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](Episodes/EP-443 - What Humans, Animals and Plants Tell Us About Consciousness - Michael Pollan/summary.md)
 - [EP-444 - Tools to Improve Your Focus & Concentration | Huberman Lab Essentials](Episodes/EP-444 - Tools to Improve Your Focus and Concentration/summary.md)
+- [EP-445 - Bringing Extinct Species Back to Life | Dr. Beth Shapiro](Episodes/EP-445 - Bringing Extinct Species Back to Life - Dr. Beth Shapiro/summary.md)

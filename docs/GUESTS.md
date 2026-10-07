@@ -907,3 +907,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Michael Pollan, author and science writer
 - [EP-443 - What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](Episodes/EP-443 - What Humans, Animals and Plants Tell Us About Consciousness - Michael Pollan/summary.md)
+
+### Dr. Beth Shapiro
+- [EP-445 - Bringing Extinct Species Back to Life | Dr. Beth Shapiro](Episodes/EP-445 - Bringing Extinct Species Back to Life - Dr. Beth Shapiro/summary.md)
