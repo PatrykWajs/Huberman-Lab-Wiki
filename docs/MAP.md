@@ -478,3 +478,4 @@
 - [EP-443 - What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](Episodes/EP-443 - What Humans, Animals and Plants Tell Us About Consciousness - Michael Pollan/summary.md)
 - [EP-444 - Tools to Improve Your Focus & Concentration | Huberman Lab Essentials](Episodes/EP-444 - Tools to Improve Your Focus and Concentration/summary.md)
 - [EP-445 - Bringing Extinct Species Back to Life | Dr. Beth Shapiro](Episodes/EP-445 - Bringing Extinct Species Back to Life - Dr. Beth Shapiro/summary.md)
+- [EP-446 - Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](Episodes/EP-446 - Essentials Manage Stress and Build Resilience - Dr. Elissa Epel/summary.md)

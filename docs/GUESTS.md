@@ -346,6 +346,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-183 - Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer](Episodes/EP-183 - Journal Club with Dr. Peter Attia - Effects of Light and Dark on Mental Health and Treatments for Cancer/summary.md)
 
 ### Dr. Elissa Epel
+- [EP-446 - Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](Episodes/EP-446 - Essentials Manage Stress and Build Resilience - Dr. Elissa Epel/summary.md)
 - [EP-129 - Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](Episodes/EP-129 - Control Stress for Healthy Eating, Metabolism and Aging - Dr. Elissa Epel/summary.md)
 
 ### Dr. Ellen Langer
