@@ -479,3 +479,5 @@
 - [EP-444 - Tools to Improve Your Focus & Concentration | Huberman Lab Essentials](Episodes/EP-444 - Tools to Improve Your Focus and Concentration/summary.md)
 - [EP-445 - Bringing Extinct Species Back to Life | Dr. Beth Shapiro](Episodes/EP-445 - Bringing Extinct Species Back to Life - Dr. Beth Shapiro/summary.md)
 - [EP-446 - Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](Episodes/EP-446 - Essentials Manage Stress and Build Resilience - Dr. Elissa Epel/summary.md)
+- [EP-447 - How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](Episodes/EP-447 - How Food Choices Shape Memory, Cognition and Cravings - Dr. Scott Kanoski/summary.md)
+- [EP-448 - Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](Episodes/EP-448 - Essentials Neuralink and Technologies to Enhance Human Brains - Dr. Matt MacDougall/summary.md)

@@ -611,6 +611,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Matthew MacDougall
 - [EP-131 - Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](Episodes/EP-131 - Neuralink and Technologies to Enhance Human Brains - Dr. Matthew MacDougall/summary.md)
+- [EP-448 - Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](Episodes/EP-448 - Essentials Neuralink and Technologies to Enhance Human Brains - Dr. Matt MacDougall/summary.md)
 
 ### Maximize Productivity, Physical & Mental Health With Daily Tools
 - [EP-293 - Essentials - Maximize Productivity, Physical & Mental Health With Daily Tools](Episodes/EP-293 - Essentials - Maximize Productivity, Physical and Mental Health With Daily Tools/summary.md)
@@ -911,3 +912,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Beth Shapiro
 - [EP-445 - Bringing Extinct Species Back to Life | Dr. Beth Shapiro](Episodes/EP-445 - Bringing Extinct Species Back to Life - Dr. Beth Shapiro/summary.md)
+
+### Dr. Scott Kanoski
+- [EP-447 - How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](Episodes/EP-447 - How Food Choices Shape Memory, Cognition and Cravings - Dr. Scott Kanoski/summary.md)
