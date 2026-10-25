@@ -915,3 +915,6 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 
 ### Dr. Scott Kanoski
 - [EP-447 - How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](Episodes/EP-447 - How Food Choices Shape Memory, Cognition and Cravings - Dr. Scott Kanoski/summary.md)
+
+### Dr. Jared Diamond
+- [EP-449 - What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](Episodes/EP-449 - What Makes Great Leaders and How to Live an Extraordinary Life - Dr. Jared Diamond/summary.md)

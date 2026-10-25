@@ -481,3 +481,5 @@
 - [EP-446 - Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel](Episodes/EP-446 - Essentials Manage Stress and Build Resilience - Dr. Elissa Epel/summary.md)
 - [EP-447 - How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski](Episodes/EP-447 - How Food Choices Shape Memory, Cognition and Cravings - Dr. Scott Kanoski/summary.md)
 - [EP-448 - Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](Episodes/EP-448 - Essentials Neuralink and Technologies to Enhance Human Brains - Dr. Matt MacDougall/summary.md)
+- [EP-449 - What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](Episodes/EP-449 - What Makes Great Leaders and How to Live an Extraordinary Life - Dr. Jared Diamond/summary.md)
+- [EP-450 - Essentials: Developing a Rational Approach to Supplementation for Health & Performance](Episodes/EP-450 - Essentials Developing a Rational Approach to Supplementation for Health and Performance/summary.md)
