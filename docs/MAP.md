@@ -483,3 +483,5 @@
 - [EP-448 - Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall](Episodes/EP-448 - Essentials Neuralink and Technologies to Enhance Human Brains - Dr. Matt MacDougall/summary.md)
 - [EP-449 - What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond](Episodes/EP-449 - What Makes Great Leaders and How to Live an Extraordinary Life - Dr. Jared Diamond/summary.md)
 - [EP-450 - Essentials: Developing a Rational Approach to Supplementation for Health & Performance](Episodes/EP-450 - Essentials Developing a Rational Approach to Supplementation for Health and Performance/summary.md)
+- [EP-451 - Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley](Episodes/EP-451 - Unlocking Persistent Motivation and Extreme Resilience - Ross Edgley/summary.md)
+- [EP-452 - Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](Episodes/EP-452 - Essentials How Smells Influence Our Hormones, Health and Behavior - Dr. Noam Sobel/summary.md)
