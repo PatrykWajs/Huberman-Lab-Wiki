@@ -704,6 +704,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-178 - Protocols to Access Creative Energy and Process | Rick Rubin](Episodes/EP-178 - Protocols to Access Creative Energy and Process - Rick Rubin/summary.md)
 
 ### Robert Greene
+- [EP-453 - Access the Sublime & Live Your Best Life | Robert Greene](Episodes/EP-453 - Access the Sublime and Live Your Best Life - Robert Greene/summary.md)
 - [EP-175 - A Process for Finding & Achieving Your Unique Purpose | Robert Greene](Episodes/EP-175 - A Process for Finding and Achieving Your Unique Purpose - Robert Greene/summary.md)
 
 ### Dr. Robert Lustig
@@ -776,6 +777,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-145 - Science-Supported Tools to Accelerate Your Fitness Goals](Episodes/EP-145 - Science-Supported Tools to Accelerate Your Fitness Goals/summary.md)
 
 ### Dr. Susanna Søberg
+- [EP-454 - Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg](Episodes/EP-454 - Essentials Cold and Heat Exposure for Metabolic Health - Dr. Susanna Søberg/summary.md)
 - [EP-136 - How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg](Episodes/EP-136 - How to Use Cold and Heat Exposure to Improve Your Health - Dr. Susanna Søberg/summary.md)
 
 ### Dr. Teo Soleymani

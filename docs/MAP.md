@@ -485,3 +485,5 @@
 - [EP-450 - Essentials: Developing a Rational Approach to Supplementation for Health & Performance](Episodes/EP-450 - Essentials Developing a Rational Approach to Supplementation for Health and Performance/summary.md)
 - [EP-451 - Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley](Episodes/EP-451 - Unlocking Persistent Motivation and Extreme Resilience - Ross Edgley/summary.md)
 - [EP-452 - Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](Episodes/EP-452 - Essentials How Smells Influence Our Hormones, Health and Behavior - Dr. Noam Sobel/summary.md)
+- [EP-453 - Access the Sublime & Live Your Best Life | Robert Greene](Episodes/EP-453 - Access the Sublime and Live Your Best Life - Robert Greene/summary.md)
+- [EP-454 - Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg](Episodes/EP-454 - Essentials Cold and Heat Exposure for Metabolic Health - Dr. Susanna Søberg/summary.md)
