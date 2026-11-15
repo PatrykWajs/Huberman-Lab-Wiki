@@ -159,6 +159,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-383 - Essentials - How to Build Strength, Muscle Size & Endurance](Episodes/EP-383 - Essentials - How to Build Strength, Muscle Size and Endurance/summary.md)
 
 ### Dr. Anna Lembke
+- [EP-455 - Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke](Episodes/EP-455 - Overcome Addictions and Obsessions of All Kinds - Dr. Anna Lembke/summary.md)
 - [EP-033 - Understanding & Treating Addiction | Dr. Anna Lembke](Episodes/EP-033 - Understanding and Treating Addiction - Dr. Anna Lembke/summary.md)
 - [EP-303 - Essentials - Understanding & Treating Addiction - Dr. Anna Lembke](Episodes/EP-303 - Essentials - Understanding and Treating Addiction - Dr. Anna Lembke/summary.md)
 
@@ -588,6 +589,7 @@ A complete index of every guest expert who has appeared on the Huberman Lab Podc
 - [EP-212 - How to Navigate Menopause & Perimenopause for Maximum Health & Vitality - Dr. Mary Claire Haver](Episodes/EP-212 - How to Navigate Menopause and Perimenopause for Maximum Health and Vitality - Dr. Mary Claire Haver/summary.md)
 
 ### Dr. Mary Helen Immordino-Yang
+- [EP-456 - Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](Episodes/EP-456 - Essentials How Emotions and Social Factors Impact Learning - Dr. Mary Helen Immordino-Yang/summary.md)
 - [EP-140 - How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](Episodes/EP-140 - How Emotions and Social Factors Impact Learning - Dr. Mary Helen Immordino-Yang/summary.md)
 
 ### Dr. Mary-Frances O'Connor

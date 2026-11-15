@@ -487,3 +487,5 @@
 - [EP-452 - Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](Episodes/EP-452 - Essentials How Smells Influence Our Hormones, Health and Behavior - Dr. Noam Sobel/summary.md)
 - [EP-453 - Access the Sublime & Live Your Best Life | Robert Greene](Episodes/EP-453 - Access the Sublime and Live Your Best Life - Robert Greene/summary.md)
 - [EP-454 - Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg](Episodes/EP-454 - Essentials Cold and Heat Exposure for Metabolic Health - Dr. Susanna Søberg/summary.md)
+- [EP-455 - Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke](Episodes/EP-455 - Overcome Addictions and Obsessions of All Kinds - Dr. Anna Lembke/summary.md)
+- [EP-456 - Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang](Episodes/EP-456 - Essentials How Emotions and Social Factors Impact Learning - Dr. Mary Helen Immordino-Yang/summary.md)
